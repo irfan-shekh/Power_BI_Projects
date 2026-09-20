@@ -52,6 +52,7 @@ This dashboard delivers an executive-level summary and granular analytical insig
 
 ```text
 IPL_Analysis_2008-2025/
+├── .gitignore                      # Git ignore rules for Power BI & temporary files
 ├── IPL_ANALYSIS(2008-2025).pbix    # Main Power BI Report file
 ├── README.md                       # Project documentation
 ├── IPL Data/                       # Datasets used in the data model
