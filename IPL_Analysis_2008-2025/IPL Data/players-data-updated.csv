@@ -1,0 +1,773 @@
+player_id,player_name,bat_style,bowl_style,field_pos,player_full_name,player_name2,player_image
+6730,Mohsin Khan,Left hand Bat,Left arm Medium fast,,Mohsin Khan,Mohsin Khan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mohsin%20Khan.png
+22,Rashid Khan,Right hand Bat,Legbreak Googly, ,Rashid Khan Arman,Rashid Khan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Rashid%20Khan.png
+590,K Rabada,Left hand Bat,Right arm Fast, ,Kagiso Rabada,Kagiso Rabada,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Kagiso%20Rabada.png
+1424,SN Khan,Right hand Bat,Legbreak, ,Sarfaraz Naushad Khan,Sarfaraz Naushad,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SN%20Khan.png
+963,MN Samuels,Right hand Bat,Right arm Offbreak, ,Marlon Nathaniel Samuels,Marlon Nathaniel,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MN%20Samuels.png
+53,SB Jakati,Left hand Bat,Slow Left arm Orthodox, ,Shadab Bashir Jakati,Shadab Bashir,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SB%20Jakati.png
+12,DA Warner,Left hand Bat,Legbreak, ,David Andrew Warner,David Andrew,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/David%20Warner.png
+73,MP Stoinis,Right hand Bat,Right arm Medium, ,Marcus Peter Stoinis,Marcus Peter,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MP%20Stoinis.png
+1119,R Tewatia,Left hand Bat,Legbreak, ,Rahul Tewatia,Rahul Tewatia,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Tewatia.png
+268,RA Tripathi,Right hand Bat,Right arm Medium, ,Rahul Ajay Tripathi,Rahul Ajay,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RA%20Tripathi.png
+163,RD Chahar,Right hand Bat,Legbreak Googly, ,Rahul Desraj Chahar,Rahul Desraj,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RD%20Chahar.png
+186,S Nadeem,Right hand Bat,Slow Left arm Orthodox, ,Shahbaz Nadeem,Shahbaz Nadeem,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Nadeem.png
+59,MK Pandey,Right hand Bat,Right arm Medium, ,Manish Krishnanand Pandey,Manish Krishnanand,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MK%20Pandey.png
+531,KS Williamson,Right hand Bat,Right arm Offbreak, ,Kane Stuart Williamson,Kane Stuart,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Kane%20Williamson.png
+56,G Gambhir,Left hand Bat,Legbreak, ,Gautam Gambhir,Gautam Gambhir,https://documents.iplt20.com/playerheadshot/ipl/284/84.png
+39,MK Tiwary,Right hand Bat,Legbreak Googly, ,Manoj Kumar Tiwary,Manoj Kumar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MK%20Tiwary.png
+68,M Vohra,Right hand Bat,Right arm Medium, ,Manan Vohra,Manan Vohra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Vohra.png
+638,NB Singh,Right hand Bat,Right arm Medium, ,Nathu Bharat Singh,Nathu Bharat,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/NB%20Singh.png
+40,R Bhatia,Right hand Bat,Right arm Medium fast, ,Rajat Bhatia,Rajat Bhatia,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Bhatia.png
+1233,SS Tiwary,Left hand Bat, , ,Saurabh Sunil Tiwary,Saurabh Sunil,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SS%20Tiwary.png
+1396,MA Wood,Right hand Bat,Right arm Fast, ,Mark Andrew Wood,Mark Andrew,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MA%20Wood.png
+47,SK Raina,Left hand Bat,Right arm Offbreak, ,Suresh Kumar Raina,Suresh Kumar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SK%20Raina.png
+1242,R Vinay Kumar,Right hand Bat,Right arm Medium, ,Ranganath Vinay Kumar,Ranganath Vinay,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Vinay%20Kumar.png
+541,SE Marsh,Left hand Bat,Slow Left arm Orthodox, ,Shaun Edward Marsh,Shaun Edward,https://cricclubs.com/documentsRep/profilePics/6c5d3a99-b18a-47b6-ba2e-5dae071b3452.png
+6,Sachin Baby,Left hand Bat,Right arm Offbreak, ,Sachin Baby,Sachin Baby,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Sachin%20Baby.png
+525,J Yadav,Right hand Bat,Right arm Offbreak, ,Jayant Yadav,Jayant Yadav,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/J%20Yadav.png
+70,AR Patel,Left hand Bat,Slow Left arm Orthodox, ,Axar Rajeshbhai Patel,Axar Rajeshbhai,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AR%20Patel.png
+63,PP Chawla,Left hand Bat,Legbreak, ,Piyush Pramod Chawla,Piyush Pramod,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PP%20Chawla.png
+30,HH Pandya,Right hand Bat,Right arm Medium fast, ,Hardik Himanshu Pandya,Hardik Himanshu,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/HH%20Pandya.png
+36,SPD Smith,Right hand Bat,Legbreak Googly, ,Steven Peter Devereux Smith,Steven Peter,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SPD%20Smith.png
+55,S Kaushik,Right hand Bat,Left arm Wrist spin, ,Shivil Kaushik,Shivil Kaushik,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Kaushik.png
+52,P Kumar,Right hand Bat,Right arm Medium, ,Praveenkumar Sakat Singh,Praveenkumar Sakat,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/P%20Kumar.png
+41,DL Chahar,Right hand Bat,Right arm Medium, ,Deepak Lokandersingh Chahar,Deepak Lokandersingh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DL%20Chahar.png
+1429,K Khejroliya,Left hand Bat,Left arm Medium fast, ,Kulwant Khejroliya,Kulwant Khejroliya,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/K%20Khejroliya.png
+32,MJ McClenaghan,Left hand Bat,Left arm Fast medium, ,Mitchell John McClenaghan,Mitchell John,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MJ%20McClenaghan.png
+457,AD Mathews,Right hand Bat,Right arm Medium, ,Angelo Davis Mathews,Angelo Davis,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AD%20Mathews.png
+1286,Avesh Khan,Right hand Bat,Right arm Fast medium, ,Avesh Khan,Avesh Khan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Avesh%20Khan.png
+45,JJ Roy,Right hand Bat, , ,Jason Jonathan Roy,Jason Jonathan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JJ%20Roy.png
+43,AB Dinda,Right hand Bat,Right arm Medium fast, ,Ashok Bhimchandra Dinda,Ashok Bhimchandra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AB%20Dinda.png
+579,Shakib Al Hasan,Left hand Bat,Slow Left arm Orthodox, ,Shakib Al Hasan,Shakib Al,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shakib%20Al%20Hasan.png
+1448,K Gowtham,Right hand Bat,Right arm Offbreak, ,Krishnappa Gowtham,Krishnappa Gowtham,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/K%20Gowtham.png
+72,DA Miller,Left hand Bat,Right arm Offbreak, ,David Andrew Miller,David Andrew,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DA%20Miller.png
+60,YK Pathan,Right hand Bat,Right arm Offbreak, ,Yusuf Khan Pathan,Yusuf Khan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/YK%20Pathan.png
+7,STR Binny,Right hand Bat,Right arm Medium, ,Stuart Terence Roger Binny,Stuart Terence,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/STR%20Binny.png
+3,TM Head,Left hand Bat,Right arm Offbreak,Wicketkeeper,Travis Michael Head,Travis Michael,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Travis%20Head.png
+173,Iqbal Abdulla,Left hand Bat,Slow Left arm Orthodox, ,Sayed Iqbal Abdulla,Sayed Iqbal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Iqbal%20Abdulla.png
+15,Yuvraj Singh,Left hand Bat,Slow Left arm Orthodox, ,Yuvraj Singh,Yuvraj Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Yuvraj%20Singh.png
+74,Swapnil Singh,Right hand Bat,Slow Left arm Orthodox, ,Swapnil Singh,Swapnil Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Swapnil%20Singh.png
+760,MJ Guptill,Right hand Bat,Right arm Offbreak, ,Martin James Guptill,Martin James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MJ%20Guptill.png
+182,CH Morris,Right hand Bat,Right arm Fast medium, ,Christopher Henry Morris,Christopher Henry,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CH%20Morris.png
+361,LH Ferguson,Right hand Bat,Right arm Fast, ,Lachlan Hammond Ferguson,Lachlan Hammond,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/LH%20Ferguson.png
+1285,HV Patel,Right hand Bat,Right arm Medium, ,Harshal Vikram Patel,Harshal Vikram,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Harshal%20Patel.png
+1449,S Gopal,Right hand Bat,Legbreak, ,Shreyas Gopal,Shreyas Gopal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Gopal.png
+405,KC Cariappa,Right hand Bat,Legbreak, ,Konganda Charamanna Cariappa,Konganda Charamanna,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KC%20Cariappa.png
+196,Basil Thampi,Right hand Bat,Right arm Fast medium, ,Basil Thampi,Basil Thampi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Basil%20Thampi.png
+744,AR Bawne,Right hand Bat,Right arm Offbreak, ,Ankit Ramdas Bawne,Ankit Ramdas,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AR%20Bawne.png
+676,KV Sharma,Left hand Bat,Legbreak Googly, ,Karn Vinod Sharma,Karn Vinod,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KV%20Sharma.png
+171,Vishnu Vinod,Right hand Bat, ,Wicketkeeper,Vishnu Vinod,Vishnu Vinod,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Vishnu%20Vinod.png
+332,V Kohli,Right hand Bat,Right arm Medium, ,Virat Kohli,Virat Kohli,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Virat%20Kohli.png
+28,KH Pandya,Left hand Bat,Slow Left arm Orthodox, ,Krunal Himanshu Pandya,Krunal Himanshu,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KH%20Pandya.png
+448,AF Milne,Right hand Bat,Right arm Fast, ,Adam Fraser Milne,Adam Fraser,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AF%20Milne.png
+20,B Kumar,Right hand Bat,Right arm Medium, ,Bhuvneshwar Kumar Singh,Bhuvneshwar Kumar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Bhuvneshwar%20Kumar.png
+347,Ishan Kishan,Left hand Bat, ,Wicketkeeper,Ishan Pranav Kumar Pandey Kishan,Ishan Pranav,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ishan%20Kishan.png
+65,SP Narine,Left hand Bat,Right arm Offbreak, ,Sunil Philip Narine,Sunil Philip,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SP%20Narine.png
+359,Ankit Sharma,Left hand Bat,Slow Left arm Orthodox, ,Ankit Nagendra Sharma,Ankit Nagendra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ankit%20Sharma.png
+187,Z Khan,Right hand Bat,Left arm Fast medium, ,Zaheer Khan,Zaheer Khan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Z%20Khan.png
+185,A Mishra,Right hand Bat,Legbreak, ,Amit Mishra,Amit Mishra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Mishra.png
+726,Ankit Soni,Right hand Bat,Legbreak, ,Ankit Soni,Ankit Soni,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ankit%20Soni.png
+197,Tejas Baroka,Right hand Bat,Legbreak Googly, ,Tejas Baroka,Tejas Baroka,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Tejas%20Baroka.png
+5,SR Watson,Right hand Bat,Right arm Fast medium, ,Shane Robert Watson,Shane Robert,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SR%20Watson.png
+460,Mohammed Shami,Right hand Bat,Right arm Fast, ,Mohammed Shami Ahmed,Mohammed Shami,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mohammad%20Shami.png
+351,AJ Tye,Right hand Bat,Right arm Medium fast, ,Andrew James Tye,Andrew James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Andrew%20Tye.png
+1393,DJ Bravo,Right hand Bat,Right arm Medium, ,Dwayne John Bravo,Dwayne John,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Dwayne%20Bravo.png
+177,AP Tare,Right hand Bat, ,Wicketkeeper,Aditya Prakash Tare,Aditya Prakash,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AP%20Tare.png
+7539,B Indrajith,Right hand Bat,Legbreak Googly, ,Baba Indrajith,Baba Indrajith,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/B%20Indrajith.png
+4063,T Banton,Right hand Bat, ,Wicketkeeper,Tom Banton,Tom Banton,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/T%20Banton.png
+6115,K Yadav,Left hand Bat,Left arm Fast medium, ,Kuldip Yadav,Kuldip Yadav,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/K%20Yadav.png
+3649,AS Roy,Left hand Bat,Slow Left arm Orthodox, ,Anukul Sudhakar Roy,Anukul Sudhakar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AS%20Roy.png
+5407,M Shahrukh Khan,Right hand Bat,Right arm Offbreak, ,Masood Shahrukh Khan,Masood Shahrukh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Shahrukh%20Khan.png
+4960,MR Marsh,Right hand Bat,Right arm Medium, ,Mitchell Ross Marsh,Mitchell Ross,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MR%20Marsh.png
+6761,R Shepherd,Right hand Bat,Right arm Fast medium, ,Romario Shepherd,Romario Shepherd,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Shepherd.png
+8321,Rahmanullah Gurbaz,Right hand Bat, ,Wicketkeeper,Rahmanullah Gurbaz,Rahmanullah Gurbaz,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Rahmanullah%20Gurbaz.png
+7751,SA Abbott,Right hand Bat,Right arm Fast medium, ,Sean Anthony Abbott,Sean Anthony,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SA%20Abbott.png
+7302,OC McCoy,Left hand Bat,Left arm Fast medium, ,Obed  Christopher McCoy,Obed  Christopher,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/OC%20McCoy.png
+4970,P Dubey,Right hand Bat,Legbreak Googly, ,Praveen Dubey,Praveen Dubey,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/P%20Dubey.png
+8355,Mukesh Kumar,Right hand Bat,Right arm Medium, ,Mukesh Kumar,Mukesh Kumar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mukesh%20Kumar.png
+3451,DW Steyn,Right hand Bat,Right arm Fast, ,Dale Willem Steyn,Dale Willem,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DW%20Steyn.png
+5411,RP Meredith,Right hand Bat,Right arm Fast, ,Riley Patrick Meredith,Riley Patrick,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RP%20Meredith.png
+4098,JO Holder,Right hand Bat,Right arm Medium fast, ,Jason Omar Holder,Jason Omar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JO%20Holder.png
+7895,R Sai Kishore,Left hand Bat,Slow Left arm Orthodox, ,Ravisrinivasan Sai Kishore,Ravisrinivasan Sai,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Sai%20Kishore.png
+1805,RK Bhui,Right hand Bat,Legbreak Googly, ,Ricky Kannakumar Bhui,Ricky Kannakumar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RK%20Bhui.png
+6054,AK Markram,Right hand Bat,Right arm Offbreak, ,Aiden Kyle Markram,Aiden Kyle,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AK%20Markram.png
+6710,Akash Deep,Right hand Bat,Right arm Fast medium, ,Akash Deep,Akash Deep,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Akash%20Deep.png
+5976,KS Bharat,Right hand Bat, ,Wicketkeeper,Kona Srikar Bharat,Kona Srikar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KS%20Bharat.png
+6681,Tilak Varma,Left hand Bat,Right arm Offbreak, ,Namboori Thakur Tilak Varma,Namboori Thakur,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Tilak%20Varma.png
+4119,RD Gaikwad,Right hand Bat,Right arm Offbreak, ,Ruturaj Dashrat Gaikwad,Ruturaj Dashrat,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ruturaj%20Gaikwad.png
+6739,A Manohar,Right hand Bat,Legbreak Googly, ,Abhinav Manohar,Abhinav Manohar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Manohar.png
+7843,Fazalhaq Farooqi,Right hand Bat,Left arm Fast medium, ,Fazalhaq Farooqi,Fazalhaq Farooqi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Fazalhaq%20Farooqi.png
+7083,KR Sen,Right hand Bat,Right arm Fast, ,Kuldeep Rampal Sen,Kuldeep Rampal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KR%20Sen.png
+3747,P Simran Singh,Right hand Bat, ,Wicketkeeper,Prabhsimran Singh,Prabhsimran Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/P%20Simran%20Singh.png
+5343,M Jansen,Right hand Bat,Left arm Medium fast, ,Marco Jansen,Marco Jansen,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Jansen.png
+5629,FA Allen,Right hand Bat,Slow Left arm Orthodox, ,Fabian Anthony Allen,Fabian Anthony,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/FA%20Allen.png
+5935,Anuj Rawat,Left hand Bat, , ,Anuj Rawat,Anuj Rawat,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Anuj%20Rawat.png
+7017,M Theekshana,Right hand Bat,Right arm Offbreak, ,Morawakage Maheesh Theekshana,Morawakage Maheesh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Theekshana.png
+1833,JC Archer,Right hand Bat,Right arm Fast, ,Jofra Chioke Archer,Jofra Chioke,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JC%20Archer.png
+2142,DJ Willey,Left hand Bat,Left arm Fast medium, ,David Jonathan Willey,David Jonathan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DJ%20Willey.png
+1849,PP Shaw,Right hand Bat,Right arm Offbreak, ,Prithvi Pankaj Shaw,Prithvi Pankaj,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PP%20Shaw.png
+6017,Umran Malik,Right hand Bat,Right arm Fast, ,Umran Malik,Umran Malik,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Umran%20Malik.png
+2295,SP Goswami,Left hand Bat, ,Wicketkeeper,Shreevats Pratyush Goswami,Shreevats Pratyush,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SP%20Goswami.png
+3156,HF Gurney,Right hand Bat,Left arm Fast medium, ,Harry Frederick Gurney,Harry Frederick,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/HF%20Gurney.png
+2743,CA Ingram,Left hand Bat,Legbreak,Wicketkeeper,Colin Alexander Ingram,Colin Alexander,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CA%20Ingram.png
+6798,Mukesh Choudhary,Left hand Bat,Left arm Medium, ,Mukesh Choudhary,Mukesh Choudhary,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mukesh%20Choudhary.png
+3214,SD Lad,Right hand Bat,Right arm Offbreak, ,Siddhesh Dinesh Lad,Siddhesh Dinesh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SD%20Lad.png
+8305,J Little,Right hand Bat,Left arm Fast medium, ,Joshua Brian Little,Joshua Brian,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/J%20Little.png
+8007,M Pathirana,Right hand Bat,Right arm Fast, ,Matheesha Pathirana,Matheesha Pathirana,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Pathirana.png
+2701,S Dube,Left hand Bat,Right arm Medium, ,Shivam Dube,Shivam Dube,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Dube.png
+3145,S Midhun,Right hand Bat,Legbreak Googly, ,Sudhesan Midhun,Sudhesan Midhun,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Midhun.png
+2353,CJ Dala,Right hand Bat,Right arm Medium, ,Carl Junior Dala,Carl Junior,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CJ%20Dala.png
+6729,PVD Chameera,Right hand Bat,Right arm Fast, ,Pathira Vasan Dushmantha Chameera,Pathira Vasan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PVD%20Chameera.png
+4097,PK Garg,Right hand Bat,Right arm Medium, ,Priyam K Garg,Priyam K,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PK%20Garg.png
+7192,Aman Hakim Khan,Right hand Bat,Right arm Medium, ,Aman Hakim Khan,Aman Hakim,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Aman%20Hakim%20Khan.png
+6734,MS Wade,Left hand Bat,Right arm Medium,Wicketkeeper,Matthew Scott Wade,Matthew Scott,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MS%20Wade.png
+4310,Shahbaz Ahmed,Left hand Bat,Slow Left arm Orthodox, ,Shahbaz Ahmed,Shahbaz Ahmed,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shahbaz%20Ahmed.png
+4059,Ravi Bishnoi,Right hand Bat,Legbreak Googly, ,Ravi Bishnoi,Ravi Bishnoi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ravi%20Bishnoi.png
+4134,KL Nagarkoti,Right hand Bat,Right arm Fast, ,Kamlesh Lachham Nagarkoti,Kamlesh Lachham,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KL%20Nagarkoti.png
+4320,DR Sams,Right hand Bat,Left arm Fast medium, ,Daniel Richard Sams,Daniel Richard,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DR%20Sams.png
+7496,DJ Mitchell,Right hand Bat,Right arm Medium, ,Daryl Joseph Mitchell,Daryl Joseph,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DJ%20Mitchell.png
+5422,C Sakariya,Left hand Bat,Left arm Medium fast, ,Chetan Sakariya,Chetan Sakariya,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/C%20Sakariya.png
+2352,S Lamichhane,Right hand Bat,Legbreak Googly, ,Sandeep Lamichhane,Sandeep Lamichhane,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Lamichhane.png
+2910,GH Vihari,Right hand Bat,Right arm Offbreak, ,Gade Hanuma Vihari,Gade Hanuma,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/GH%20Vihari.png
+8349,RR Rossouw,Left hand Bat,Right arm Offbreak, ,Rilee Roscoe Rossouw,Rilee Roscoe,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RR%20Rossouw.png
+4664,JR Hazlewood,Left hand Bat,Right arm Fast medium, ,Josh Reginald Hazlewood,Josh Reginald,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JR%20Hazlewood.png
+8333,KR Mayers,Left hand Bat,Right arm Medium, ,Kyle Rico Mayers,Kyle Rico,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KR%20Mayers.png
+5573,LI Meriwala,Left hand Bat,Left arm Fast medium, ,Lukman Iqbal Meriwala,Lukman Iqbal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/LI%20Meriwala.png
+2894,NS Naik,Right hand Bat, ,Wicketkeeper,Nikhil Shankar Naik,Nikhil Shankar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/NS%20Naik.png
+8191,PN Mankad,Right hand Bat,Right arm Medium, ,Prerak Nileshkumar Mankad,Prerak Nileshkumar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PN%20Mankad.png
+2349,Abhishek Sharma,Left hand Bat,Slow Left arm Orthodox, ,Abhishek Sharma,Abhishek Sharma,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Abhishek%20Sharma.png
+7621,K Kartikeya,Right hand Bat,"Slow Left arm Orthodox, Left arm Wrist spin", ,Kumar Kartikeya Singh,Kumar Kartikeya,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/K%20Kartikeya.png
+6520,AU Rashid,Right hand Bat,Legbreak, ,Adil Usman Rashid,Adil Usman,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AU%20Rashid.png
+2825,CV Varun,Right hand Bat,Legbreak Googly, ,Varun Chakravarthy Vinod,Varun Chakravarthy,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CV%20Varun.png
+4212,Kartik Tyagi,Right hand Bat,Right arm Fast, ,Kartik Tyagi,Kartik Tyagi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Kartik%20Tyagi.png
+4104,YBK Jaiswal,Left hand Bat,Legbreak, ,Yashasvi Bhupendra Kumar Jaiswal,Yashasvi Bhupendra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/YBK%20Jaiswal.png
+6519,IC Porel,Right hand Bat,Right arm Medium, ,Ishan Chandranath Porel,Ishan Chandranath,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/IC%20Porel.png
+1740,H Klaasen,Right hand Bat,Right arm Offbreak,Wicketkeeper,Heinrich Klaasen,Heinrich Klaasen,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/H%20Klaasen.png
+5526,Virat Singh,Left hand Bat,Legbreak Googly, ,Virat Binod Singh,Virat Binod,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Virat%20Singh.png
+5181,Monu Kumar,Right hand Bat,Right arm Medium, ,Monu Kumar Singh,Monu Kumar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Monu%20Kumar.png
+10135,N Burger,Left hand Bat,Left arm Fast medium,,Nandre Burger,Nandre Burger,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/N%20Burger.png
+10159,SH Johnson,Left hand Bat,Left arm Fast,,Spencer Johnson,Spencer Johnson,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SH%20Johnson.png
+10070,Sameer Rizvi,Right hand Bat,Right arm Offbreak,,Sameer Rizvi,Sameer Rizvi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Sameer%20Rizvi.png
+10291,A Raghuvanshi,Right hand Bat,Slow Left arm Orthodox,,Angkrish Raghuvanshi,Angkrish Raghuvanshi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Raghuvanshi.png
+11192,AA Kulkarni,Right hand Bat,Right arm Medium,,Arshin Kulkarni,Arshin Kulkarni,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AA%20Kulkarni.png
+10169,SZ Mulani,Left hand Bat,Slow Left arm Orthodox,,Shams Mulani,Shams Mulani,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SZ%20Mulani.png
+11834,Prince Yadav,Right hand Bat,Right arm Fast,,Prince Yadav,Prince Yadav,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Prince%20Yadav.png
+11212,RJ Gleeson,Right hand Bat,Right arm Fast Medium,,Richard Gleeson,Richard Gleeson,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RJ%20Gleeson.png
+11282,MJ Suthar,Left hand Bat,Slow Left arm Orthodox,,Manav Suthar,Manav Suthar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MJ%20Suthar.png
+11366,A Kamboj,Right hand Bat,Right arm Medium,,Anshul Kamboj,Anshul Kamboj,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Kamboj.png
+11429,V Kaverappa,Right hand Bat,Right arm Fast medium,,Vidhwath Kaverappa,Vidhwath Kaverappa,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/V%20Kaverappa.png
+10232,KT Maphaka,Left hand Bat,Left arm Fast,,Kwena Maphaka,Kwena Maphaka,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KT%20Maphaka.png
+8808,D Jansen,Right hand Bat,Left arm Fast,,Duan Jansen,Duan Jansen,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/D%20Jansen.png
+10065,R Ravindra,Left hand Bat,Slow Left arm Orthodox,,Rachin Ravindra,Rachin Ravindra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Ravindra.png
+8389,Arshad Khan,Left hand Bat,Left arm Medium,,Arshad Khan,Arshad Khan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Arshad%20Khan.png
+10083,Sumit Kumar,Right hand Bat,Right arm Medium fast,,Sumit Kumar,Sumit Kumar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Sumit%20Kumar.png
+10488,Saurav Chauhan,Left hand Bat,Right arm Offbreak,,Saurav Chauhan,Saurav Chauhan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Saurav%20Chauhan.png
+11981,DL Vettori,Left hand Bat,Slow Left arm Orthodox, ,Daniel Luca Vettori,Daniel Luca,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DL%20Vettori.png
+9759,Sanvir Singh,Right hand Bat,Right arm Medium, ,Sanvir Singh,Sanvir Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Sanvir%20Singh.png
+8769,Yudhvir Singh,Right hand Bat,Right arm Medium fast, ,Yudhvir Singh Charak,Yudhvir Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Yudhvir%20Singh.png
+8930,Liton Das,Right hand Bat,Right arm Offbreak,Wicketkeeper,Litton Kumer Das,Litton Kumer,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Liton%20Das.png
+12015,WPUJC Vaas,Left hand Bat,Left arm Fast medium, ,Warnakulasuriya Patabendige Ushantha Joseph Chaminda Vaas,Warnakulasuriya Patabendige,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/WPUJC%20Vaas.png
+12013,AS Yadav,Right hand Bat,Right arm Offbreak, ,Arjun Shivlal Yadav,Arjun Shivlal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AS%20Yadav.png
+12127,VRV Singh,Right hand Bat,Right arm Medium fast, ,Vikram Raj Vir Singh,Vikram Raj,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/VRV%20Singh.png
+12016,RP Singh,Right hand Bat,Left arm Fast medium, ,Rudra Pratap Singh,Rudra Pratap,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/389100/389167.5.png"
+11984,GD McGrath,Right hand Bat,Right arm Fast medium, ,Glenn Donald McGrath,Glenn Donald,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/GD%20McGrath.png
+11982,MF Maharoof,Right hand Bat,Right arm Fast medium, ,Mohamed Farveez Maharoof,Mohamed Farveez,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MF%20Maharoof.png
+12295,HH Gibbs,Right hand Bat,Right arm Bowler, ,Herschelle Herman Gibbs,Herschelle Herman,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/HH%20Gibbs.png
+11924,LR Shukla,Right hand Bat,Right arm Medium, ,Laxmi Ratan Shukla,Laxmi Ratan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/LR%20Shukla.png
+9524,Vivrant Sharma,Left hand Bat,Legbreak Googly, ,Vivrant Sharma,Vivrant Sharma,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Vivrant%20Sharma.png
+8396,MG Bracewell,Left hand Bat,Right arm Offbreak,Wicketkeeper,Michael Gordon Bracewell,Michael Gordon,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MG%20Bracewell.png
+11926,AB Agarkar,Right hand Bat,Right arm Fast, ,Ajit Bhalchandra Agarkar,Ajit Bhalchandra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AB%20Agarkar.png
+12012,SB Styris,Right hand Bat,Right arm Medium, ,Scott Bernard Styris,Scott Bernard,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SB%20Styris.png
+8890,Naveen-ul-Haq,Right hand Bat,Right arm Medium fast, ,Naveen-ul-Haq Murid,Naveen-ul,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Naveen-ul-Haq.png
+12318,BJ Hodge,Right hand Bat,Right arm Offbreak, ,Bradley John Hodge,Bradley John,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BJ%20Hodge.png
+11996,S Chanderpaul,Left hand Bat,Legbreak, ,Shivnarine Chanderpaul,Shivnarine Chanderpaul,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Chanderpaul.png
+8433,Abishek Porel,Left hand Bat, ,Wicketkeeper,Abishek Porel,Abishek Porel,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Abishek%20Porel.png
+11963,T Kohli,Right hand Bat,Right arm Medium, ,Taruwar Sushil Kohli,Taruwar Sushil,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/T%20Kohli.png
+9824,Nithish Kumar Reddy,Right hand Bat,Right arm Medium fast, ,Kaki Nitish Kumar Reddy,Kaki Nitish,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Nithish%20Kumar%20Reddy.png
+11954,KC Sangakkara,Left hand Bat,Right arm Offbreak,Wicketkeeper,Kumar Chokshanada Sangakkara,Kumar Chokshanada,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KC%20Sangakkara.png
+12056,Shahid Afridi,Right hand Bat,Legbreak Googly, ,Sahibzada Mohammad Shahid Khan Afridi,Sahibzada Mohammad,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shahid%20Afridi.png
+12323,Umar Gul,Right hand Bat,Right arm Fast medium, ,Umar Gul,Umar Gul,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Umar%20Gul.png
+8475,Suyash Sharma,Right hand Bat,Legbreak Googly, ,Suyash Sharma,Suyash Sharma,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Suyash%20Sharma.png
+11949,P Amarnath,Right hand Bat,Right arm Medium, ,Palani Amarnath,Palani Amarnath,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/P%20Amarnath.png
+8386,N Wadhera,Left hand Bat,Legbreak, ,Nehal Wadhera,Nehal Wadhera,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/N%20Wadhera.png
+12121,RR Sarwan,Right hand Bat,Legbreak, ,Ramnaresh Ronnie Sarwan,Ramnaresh Ronnie,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RR%20Sarwan.png
+11993,MA Khote,Right hand Bat,Right arm Medium, ,Musavir Asmat Khote,Musavir Asmat,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MA%20Khote.png
+11933,JH Kallis,Right hand Bat,Right arm Fast medium, ,Jacques Henry Kallis,Jacques Henry,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JH%20Kallis.png
+11983,B Geeves,Right hand Bat,Right arm Fast medium, ,Brett Geeves,Brett Geeves,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/B%20Geeves.png
+8605,Mohit Rathee,Right hand Bat,Legbreak, ,Mohit Rathee,Mohit Rathee,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mohit%20Rathee.png
+9431,R Goyal,Left hand Bat,Left arm Wrist spin, ,Raghav Goyal,Raghav Goyal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Goyal.png
+10707,Arshad Khan (2),Left hand Bat,Left arm Medium, ,Mohd Arshad Khan,Mohd Arshad,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Arshad%20Khan%20(2).png
+8470,Dhruv Jurel,Right hand Bat, , ,Dhruv Chand Jurel,Dhruv Chand,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Dhruv%20Jurel.png
+11952,K Goel,Left hand Bat,Right arm Offbreak, ,Karan Goel,Karan Goel,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/K%20Goel.png
+8569,SSB Magala,Right hand Bat,Right arm Fast medium, ,Sisanda Somila Bruce Magala,Sisanda Somila,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SSB%20Magala.png
+11947,S Badrinath,Right hand Bat,Right arm Offbreak, ,Subramaniam Badrinath,Subramaniam Badrinath,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Badrinath.png
+12071,VY Mahesh,Right hand Bat,Right arm Medium fast, ,Vijaykumar Yo Mahesh,Vijaykumar Yo,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/VY%20Mahesh.png
+11958,P Dharmani,Right hand Bat, ,Wicketkeeper,Pankaj Dharmani,Pankaj Dharmani,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/P%20Dharmani.png
+11923,Mohammad Hafeez,Right hand Bat,Right arm Offbreak, ,Mohammad Hafeez,Mohammad Hafeez,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mohammad%20Hafeez.png
+11946,JDP Oram,Left hand Bat,Right arm Fast medium, ,Jacob David Philip Oram,Jacob David,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JDP%20Oram.png
+12105,D Kalyankrishna,Right hand Bat,Right arm Medium fast, ,Doddapaneni Kalyankrishna,Doddapaneni Kalyankrishna,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/D%20Kalyankrishna.png
+11986,ST Jayasuriya,Left hand Bat,Slow Left arm Orthodox, ,Sanath Teran Jayasuriya,Sanath Teran,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/319800/319886.png"
+11989,PR Shah,Right hand Bat, ,Wicketkeeper,Pinal Rohitbhai Shah,Pinal Rohitbhai,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PR%20Shah.png
+8597,MW Short,Right hand Bat,Right arm Offbreak, ,Matthew William Short,Matthew William,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MW%20Short.png
+11980,M Manhas,Right hand Bat,Right arm Offbreak,Wicketkeeper,Mithun Manhas,Mithun Manhas,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Manhas.png
+11959,B Lee,Right hand Bat,Right arm Fast, ,Brett Lee,Brett Lee,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/B%20Lee.png
+11921,RT Ponting,Right hand Bat,Right arm Medium, ,Ricky Thomas Ponting,Ricky Thomas,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RT%20Ponting.png
+11922,DJ Hussey,Right hand Bat,Right arm Offbreak, ,David John Hussey,David John,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DJ%20Hussey.png
+12572,NK Patel,Left hand Bat,,,Niraj Kanubhai Patel,Niraj Kanubhai,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/NK%20Patel.png
+12338,SP Fleming,Left hand Bat, , ,Stephen Paul Fleming,Stephen Paul,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SP%20Fleming.png
+16455,TR Birt,Left hand Bat,Right arm Medium,Occasional Wicketkeeper,Travis Rodney Birt,Travis Rodney,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/TR%20Birt.png
+16953,AA Kazi,Left hand Bat,Slow Left arm Orthodox, ,Abrar Anjum Kazi,Abrar Anjum,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AA%20Kazi.png
+14798,J Theron,Right hand Bat,Right arm Medium fast, ,Juan Theron,Juan Theron,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/J%20Theron.png
+34126,SS Mundhe,Right hand Bat,Right arm Medium, ,Shrikant Shrihari Mundhe,Shrikant Shrihari,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SS%20Mundhe.png
+15862,Sunny Singh,Right hand Bat,Right arm Medium fast, ,Sunny Singh,Sunny Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Sunny%20Singh.png
+13301,R Bishnoi,Right hand Bat,Right arm Medium fast, ,Rajesh Bishnoi,Rajesh Bishnoi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Bishnoi.png
+13388,AS Raut,Right hand Bat,Legbreak Googly, ,Abhishek Santosh Raut,Abhishek Santosh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AS%20Raut.png
+14765,R Sharma,Right hand Bat,Legbreak Googly, ,Rahul Sharma,Rahul Sharma,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Sharma.png
+15334,RS Sodhi,Right hand Bat,Right arm Medium, ,Reetinder Singh Sodhi,Reetinder Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RS%20Sodhi.png
+14648,MJ Lumb,Left hand Bat,Right arm Medium, ,Michael John Lumb,Michael John,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MJ%20Lumb.png
+34959,LJ Wright,Right hand Bat,Right arm Medium, ,Luke James Wright,Luke James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/LJ%20Wright.png
+14476,R Sathish,Right hand Bat,Right arm Medium, ,Rajagopal Sathish,Rajagopal Sathish,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Sathish.png
+12372,Misbah-ul-Haq,Right hand Bat,Legbreak, ,Misbah-ul-Haq Khan Niazi,Misbah-ul,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Misbah-ul-Haq.png
+14464,OA Shah,Right hand Bat,Right arm Offbreak, ,Owais Alam Shah,Owais Alam,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/OA%20Shah.png
+13248,AM Salvi,Right hand Bat,Right arm Medium, ,Aavishkar Madhav Salvi,Aavishkar Madhav,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AM%20Salvi.png
+13016,A Nel,Right hand Bat,Right arm Fast medium, ,Andre Nel,Andre Nel,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Nel.png
+16380,NL McCullum,Right hand Bat,Right arm Offbreak, ,Nathan Leslie McCullum,Nathan Leslie,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/NL%20McCullum.png
+34811,N Saini,Right hand Bat, ,Wicketkeeper,Nitin Saini,Nitin Saini,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/N%20Saini.png
+15261,AN Ahmed,Right hand Bat,Right arm Medium fast, ,Abu Nechim Ahmed,Abu Nechim,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AN%20Ahmed.png
+16743,I Malhotra,Right hand Bat,Right arm Medium fast, ,Ishan Malhotra,Ishan Malhotra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/I%20Malhotra.png
+14757,MD Mishra,Right hand Bat,Right arm Offbreak, ,Mohnish Dinesh Mishra,Mohnish Dinesh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MD%20Mishra.png
+34983,RJ Peterson,Left hand Bat,Slow Left arm Orthodox, ,Robin John Peterson,Robin John,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RJ%20Peterson.png
+14463,CA Pujara,Right hand Bat,Legbreak, ,Cheteshwar Arvind Pujara,Cheteshwar Arvind,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CA%20Pujara.png
+14489,A Uniyal,Left hand Bat,Left arm Medium, ,Amit Uniyal,Amit Uniyal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Uniyal.png
+13651,GR Napier,Right hand Bat,Right arm Medium, ,Graham Richard Napier,Graham Richard,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/GR%20Napier.png
+14136,J Botha,Right hand Bat,Right arm Offbreak, ,Johan Botha,Johan Botha,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/J%20Botha.png
+13227,Kamran Khan,Left hand Bat,Left arm Medium fast, ,Kamran Khan,Kamran Khan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Kamran%20Khan.png
+12454,U Kaul,Left hand Bat, ,Wicketkeeper,Uday Kaul,Uday Kaul,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/U%20Kaul.png
+13620,S Tyagi,Right hand Bat,Right arm Medium, ,Sudeep Tyagi,Sudeep Tyagi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Tyagi.png
+16276,BJ Haddin,Right hand Bat, ,Wicketkeeper,Bradley James Haddin,Bradley James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BJ%20Haddin.png
+12518,CK Kapugedera,Right hand Bat,Right arm Medium,Occasional Wicketkeeper,Chamara Kantha Kapugedera,Chamara Kantha,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CK%20Kapugedera.png
+12471,S Anirudha,Right hand Bat, , ,Srikkanth Anirudha,Srikkanth Anirudha,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Anirudha.png
+13384,RJ Quiney,Left hand Bat,Right arm Medium, ,Robert John Quiney,Robert John,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RJ%20Quiney.png
+13260,YA Abdulla,Left hand Bat,Left arm Fast medium, ,Yusuf Adam Abdulla,Yusuf Adam,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/YA%20Abdulla.png
+12650,TM Dilshan,Right hand Bat,Right arm Offbreak,Wicketkeeper,Tillakaratne Mudiyanselage Dilshan,Tillakaratne Mudiyanselage,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/TM%20Dilshan.png
+13551,MN van Wyk,Right hand Bat,Slow Left arm Orthodox,Wicketkeeper,Morne Nico van Wyk,Morne Nico,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MN%20van%20Wyk.png
+14206,SS Shaikh,Right hand Bat,Right arm Medium, ,Shoaib Shabbir Shaikh,Shoaib Shabbir,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SS%20Shaikh.png
+15878,AC Thomas,Right hand Bat,Right arm Fast medium, ,Alfonso Clive Thomas,Alfonso Clive,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AC%20Thomas.png
+15003,PD Collingwood,Right hand Bat,Right arm Medium, ,Paul David Collingwood,Paul David,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PD%20Collingwood.png
+15239,AP Dole,Right hand Bat,Right arm Medium fast, ,Aditya Pradip Dole,Aditya Pradip,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AP%20Dole.png
+14216,Jaskaran Singh,Right hand Bat,Right arm Medium, ,Jaskaran Singh Buttar,Jaskaran Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Jaskaran%20Singh.png
+12850,H Das,Right hand Bat, ,Wicketkeeper,Halhadar Das,Halhadar Das,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/H%20Das.png
+33972,AA Chavan,Left hand Bat,Slow Left arm Orthodox, ,Ankeet Anil Chavan,Ankeet Anil,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AA%20Chavan.png
+13986,A Mithun,Right hand Bat,Right arm Medium, ,Abhimanyu Mithun,Abhimanyu Mithun,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Mithun.png
+12339,S Vidyut,Left hand Bat,Slow Left arm Orthodox, ,Vidyut Sivaramakrishnan,Vidyut Sivaramakrishnan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Vidyut.png
+15851,JEC Franklin,Left hand Bat,Left arm Medium, ,James Edward Charles Franklin,James Edward,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JEC%20Franklin.png
+13508,AN Ghosh,Right hand Bat,Right arm Medium, ,Arindam Nanigopal Ghosh,Arindam Nanigopal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AN%20Ghosh.png
+12422,RR Raje,Right hand Bat,Right arm Fast medium, ,Rohan Ravindra Raje,Rohan Ravindra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RR%20Raje.png
+14008,SS Sarkar,Right hand Bat,Right arm Medium, ,Sourav Subrata Sarkar,Sourav Subrata,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SS%20Sarkar.png
+15896,RN ten Doeschate,Right hand Bat,Right arm Medium fast, ,Ryan Neil ten Doeschate,Ryan Neil,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RN%20ten%20Doeschate.png
+15140,DE Bollinger,Left hand Bat,Left arm Fast medium, ,Douglas Erwin Bollinger,Douglas Erwin,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DE%20Bollinger.png
+14567,S Ladda,Right hand Bat,Legbreak, ,Sarabjit Ladda,Sarabjit Ladda,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Ladda.png
+16249,DH Yagnik,Left hand Bat, , ,Dishant Harendra Yagnik,Dishant Harendra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DH%20Yagnik.png
+13245,DP Nannes,Right hand Bat,Left arm Fast, ,Dirk Peter Nannes,Dirk Peter,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DP%20Nannes.png
+13810,A Singh,Right hand Bat,Right arm Medium fast, ,Amit Singh,Amit Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Singh.png
+34392,TP Sudhindra,Left hand Bat,Right arm Fast, ,Taduri Prakash Chandra Sudhindra,Taduri Prakash,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/TP%20Sudhindra.png
+15779,S Randiv,Right hand Bat,Right arm Offbreak, ,Hewa Kaluhalamullage Suraj Randiv Kaluhalamulla,Hewa Kaluhalamullage,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Randiv.png
+13383,PC Valthaty,Right hand Bat,Right arm Medium, ,Paul Chandrashekar Valthaty,Paul Chandrashekar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PC%20Valthaty.png
+34554,P Awana,Right hand Bat,Right arm Medium, ,Parvinder Awana,Parvinder Awana,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/P%20Awana.png
+12710,Shoaib Akhtar,Right hand Bat,Right arm Fast, ,Shoaib Akhtar,Shoaib Akhtar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shoaib%20Akhtar.png
+34530,RR Bhatkal,Right hand Bat,Right arm Medium, ,Raju Ravi Bhatkal,Raju Ravi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RR%20Bhatkal.png
+34343,KK Cooper,Right hand Bat,Right arm Medium, ,Kevon Keston Cooper,Kevon Keston,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KK%20Cooper.png
+12661,AD Mascarenhas,Right hand Bat,Right arm Fast medium, ,Adrian Dimitri Mascarenhas,Adrian Dimitri,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AD%20Mascarenhas.png
+14541,JM Kemp,Right hand Bat,Right arm Fast medium, ,Justin Miles Kemp,Justin Miles,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JM%20Kemp.png
+12362,LPC Silva,Right hand Bat,Legbreak, ,Lindamlilage Prageeth Chamara Silva,Lindamlilage Prageeth,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/LPC%20Silva.png
+12580,SR Tendulkar,Right hand Bat,"Right arm Offbreak, Legbreak Googly", ,Sachin Ramesh Tendulkar,Sachin Ramesh,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316400/316486.6.png"
+13785,RJ Harris,Right hand Bat,Right arm Fast, ,Ryan James Harris,Ryan James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RJ%20Harris.png
+15339,L Ablish,Right hand Bat,Right arm Medium fast, ,Love Ablish,Love Ablish,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/L%20Ablish.png
+15384,S Sriram,Left hand Bat,Slow Left arm Orthodox, ,Sridharan Sriram,Sridharan Sriram,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Sriram.png
+14201,Mashrafe Mortaza,Right hand Bat,Right arm Fast medium, ,Mashrafe Bin Mortaza,Mashrafe Bin,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mashrafe%20Mortaza.png
+14492,SW Tait,Right hand Bat,Right arm Fast, ,Shaun William Tait,Shaun William,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SW%20Tait.png
+6657,DP Conway,Left hand Bat,Right arm Medium,Occasional Wicketkeeper,Devon Philip Conway,Devon Philip,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DP%20Conway.png
+8383,C Green,Right hand Bat,Right arm Fast medium, ,Cameron Donald Green,Cameron Donald,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/C%20Green.png
+13258,VS Malik,Right hand Bat,Right arm Medium, ,Vikramjeet Singh Malik,Vikramjeet Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/VS%20Malik.png
+4339,N Jagadeesan,Right hand Bat, ,Wicketkeeper,Narayan Jagadeesan,Narayan Jagadeesan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/N%20Jagadeesan.png
+76,Sandeep Sharma,Right hand Bat,Right arm Medium, ,Sandeep Sharma,Sandeep Sharma,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Sandeep%20Sharma.png
+14279,Y Nagar,Right hand Bat,Right arm Offbreak, ,Yogesh Nagar,Yogesh Nagar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Y%20Nagar.png
+1314,IR Jaggi,Right hand Bat,Legbreak Googly, ,Ishank Rajiv Jaggi,Ishank Rajiv,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/IR%20Jaggi.png
+44,Imran Tahir,Right hand Bat,Legbreak Googly, ,Mohammad Imran Tahir,Mohammad Imran,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Imran%20Tahir.png
+900,PJ Sangwan,Right hand Bat,Left arm Medium, ,Pradeep Jaibeer Sangwan,Pradeep Jaibeer,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PJ%20Sangwan.png
+11943,MEK Hussey,Left hand Bat,Right arm Medium, ,Michael Edward Killeen Hussey,Michael Edward,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319708.1.png"
+2024,L Ngidi,Right hand Bat,Right arm Fast medium, ,Lungisani True-man Ngidi,Lungisani True,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/L%20Ngidi.png
+11991,SM Pollock,Right hand Bat,Right arm Fast medium, ,Shaun Maclean Pollock,Shaun Maclean,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SM%20Pollock.png
+35966,MDKJ Perera,Left hand Bat, ,Wicketkeeper,Mathurage Don Kusal Janith Perera,Mathurage Don,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MDKJ%20Perera.png
+8748,Vijaykumar Vyshak,Right hand Bat,Right arm Medium, ,Vijaykumar Vyshak,Vijaykumar Vyshak,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Vijaykumar%20Vyshak.png
+38647,JW Hastings,Right hand Bat,Right arm Fast medium, ,John Wayne Hastings,John Wayne,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JW%20Hastings.png
+7546,Harshit Rana,Right hand Bat,Right arm Fast, ,Harshit Pradeep Rana,Harshit Pradeep,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Harshit%20Rana.png
+8098,A Tomar,Right hand Bat,Right arm Offbreak, ,Abhijeet Tomar,Abhijeet Tomar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Tomar.png
+1327,CJ Jordan,Right hand Bat,Right arm Fast medium, ,Christopher James Jordan,Christopher James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CJ%20Jordan.png
+2315,P Chopra,Right hand Bat,Legbreak Googly,Occasional Wicketkeeper,Prashant Chopra,Prashant Chopra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/P%20Chopra.png
+11971,SK Warne,Right hand Bat,Legbreak Googly, ,Shane Keith Warne,Shane Keith,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SK%20Warne.png
+16693,AC Blizzard,Left hand Bat,Left arm Medium, ,Aiden Craig Blizzard,Aiden Craig,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AC%20Blizzard.png
+36610,DJG Sammy,Right hand Bat,Right arm Medium, ,Daren Julius Garvey Sammy,Daren Julius,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DJG%20Sammy.png
+49,KD Karthik,Right hand Bat,Right arm Offbreak,Wicketkeeper,Krishnakumar Dinesh Karthik,Krishnakumar Dinesh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KD%20Karthik.png
+176,B Stanlake,Left hand Bat,Right arm Fast, ,Billy James Stanlake,Billy James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/B%20Stanlake.png
+10109,MA Starc,Left hand Bat,Left arm Fast, ,Mitchell Aaron Starc,Mitchell Aaron,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MA%20Starc.png
+11940,SB Joshi,Left hand Bat,Slow Left arm Orthodox, ,Sunil Bandacharya Joshi,Sunil Bandacharya,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SB%20Joshi.png
+12746,Younis Khan,Right hand Bat,"Right arm Medium, Legbreak", ,Mohammad Younis Khan,Mohammad Younis,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Younis%20Khan.png
+40242,P Sahu,Right hand Bat,Legbreak Googly, ,Pardeep Sahu,Pardeep Sahu,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/P%20Sahu.png
+418,MM Patel,Right hand Bat,Right arm Medium fast, ,Munaf Musa Patel,Munaf Musa,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MM%20Patel.png
+12252,DB Das,Right hand Bat,Legbreak Googly, ,Debabrata Baidya Das,Debabrata Baidya,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DB%20Das.png
+6287,RV Patel,Right hand Bat,Right arm Medium fast, ,Ripal Vinubhai Patel,Ripal Vinubhai,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RV%20Patel.png
+12539,T Taibu,Right hand Bat,Right arm Medium,Wicketkeeper,Tatenda Taibu,Tatenda Taibu,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/T%20Taibu.png
+34697,CJ McKay,Right hand Bat,Right arm Fast medium, ,Clinton James McKay,Clinton James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CJ%20McKay.png
+14360,RA Shaikh,Left hand Bat,Left arm Medium, ,Rahil Akhil Ahmed Shaikh,Rahil Akhil,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RA%20Shaikh.png
+2188,M Prasidh Krishna,Right hand Bat,Right arm Fast medium, ,Muralikrishna Prasidh Krishna,Muralikrishna Prasidh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Prasidh%20Krishna.png
+6047,GHS Garton,Left hand Bat,Left arm Fast, ,George Henry Simmons Garton,George Henry,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/GHS%20Garton.png
+54,DS Kulkarni,Right hand Bat,Right arm Medium, ,Dhawal Sunil Kulkarni,Dhawal Sunil,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DS%20Kulkarni.png
+69,WP Saha,Right hand Bat, ,Wicketkeeper,Wriddhiman Prasanta Saha,Wriddhiman Prasanta,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/WP%20Saha.png
+42,A Zampa,Right hand Bat,Legbreak Googly, ,Adam Zampa,Adam Zampa,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Zampa.png
+40725,PSP Handscomb,Right hand Bat, ,Wicketkeeper,Peter Stephen Patrick Handscomb,Peter Stephen,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PSP%20Handscomb.png
+8295,RS Hangargekar,Right hand Bat,Right arm Fast medium, ,Rajvardhan S Hangargekar,Rajvardhan S,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RS%20Hangargekar.png
+67,HM Amla,Right hand Bat,"Right arm Medium, Right arm Offbreak", ,Hashim Mahomed Amla,Hashim Mahomed,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/HM%20Amla.png
+25,RG Sharma,Right hand Bat,Right arm Offbreak, ,Rohit Gurunath Sharma,Rohit Gurunath,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RG%20Sharma.png
+11972,SK Trivedi,Right hand Bat,Right arm Medium, ,Siddharth Kishorkumar Trivedi,Siddharth Kishorkumar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SK%20Trivedi.png
+13595,TL Suman,Right hand Bat,Right arm Offbreak, ,Tirumalasetti Laxminarayana Suman,Tirumalasetti Laxminarayana,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/TL%20Suman.png
+34774,A Ashish Reddy,Right hand Bat,Right arm Medium, ,Ammana Ashish Reddy,Ammana Ashish,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Ashish%20Reddy.png
+12238,B Chipli,Right hand Bat,Right arm Medium, ,Bharat Chipli,Bharat Chipli,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/B%20Chipli.png
+14653,S Narwal,Left hand Bat,Right arm Medium, ,Sumit Narwal,Sumit Narwal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Narwal.png
+12204,SD Chitnis,Right hand Bat,Right arm Offbreak, ,Siddharth Dilip Chitnis,Siddharth Dilip,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SD%20Chitnis.png
+35864,Sunny Gupta,Right hand Bat,Right arm Offbreak, ,Sunny Gupta,Sunny Gupta,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Sunny%20Gupta.png
+31,TG Southee,Right hand Bat,Right arm Medium fast, ,Timothy Grant Southee,Timothy Grant,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/TG%20Southee.png
+17,BCJ Cutting,Right hand Bat,Right arm Fast medium, ,Benjamin Colin James Cutting,Benjamin Colin,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BCJ%20Cutting.png
+38548,BE Hendricks,Left hand Bat,Left arm Fast medium, ,Beuran Eric Hendricks,Beuran Eric,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BE%20Hendricks.png
+13083,BAW Mendis,Right hand Bat,Right arm Offbreak, ,Balapuwaduge Ajantha Winslow Mendis,Balapuwaduge Ajantha,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BAW%20Mendis.png
+12327,SA Asnodkar,Right hand Bat,Right arm Offbreak, ,Swapnil Ashok Asnodkar,Swapnil Ashok,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SA%20Asnodkar.png
+11970,D Salunkhe,Right hand Bat,Legbreak, ,Dinesh Salunkhe,Dinesh Salunkhe,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/D%20Salunkhe.png
+11966,M Kaif,Right hand Bat,Right arm Offbreak, ,Mohammad Kaif,Mohammad Kaif,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Kaif.png
+36536,IC Pandey,Right hand Bat,Right arm Medium, ,Ishwar Chand Pandey,Ishwar Chand,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/IC%20Pandey.png
+14487,P Dogra,Right hand Bat,Legbreak, ,Paras Dogra,Paras Dogra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/P%20Dogra.png
+13692,LA Carseldine,Left hand Bat,Left arm Medium, ,Lee Andrew Carseldine,Lee Andrew,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/LA%20Carseldine.png
+19,Bipul Sharma,Left hand Bat,Slow Left arm Orthodox, ,Bipul Sharma,Bipul Sharma,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Bipul%20Sharma.png
+4170,JR Philippe,Right hand Bat, ,Wicketkeeper,Joshua Ryan Philippe,Joshua Ryan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JR%20Philippe.png
+16199,TD Paine,Right hand Bat,Right arm Medium,Wicketkeeper,Timothy David Paine,Timothy David,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/TD%20Paine.png
+11937,AA Noffke,Right hand Bat,Right arm Fast medium, ,Ashley Allan Noffke,Ashley Allan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AA%20Noffke.png
+12041,Kamran Akmal,Right hand Bat, ,Wicketkeeper,Kamran Akmal,Kamran Akmal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Kamran%20Akmal.png
+36311,BJ Rohrer,Left hand Bat, ,Occasional Wicketkeeper,Ben James Rohrer,Ben James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BJ%20Rohrer.png
+36555,CM Gautam,Right hand Bat, ,Wicketkeeper,Chidhambaram Muralidharen Gautam,Chidhambaram Muralidharen,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CM%20Gautam.png
+41020,F Behardien,Right hand Bat,Right arm Fast medium, ,Farhaan Behardien,Farhaan Behardien,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/F%20Behardien.png
+37031,PV Tambe,Right hand Bat,Legbreak, ,Pravin Vijay Tambe,Pravin Vijay,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PV%20Tambe.png
+35892,MC Juneja,Right hand Bat,Right arm Offbreak, ,Manprit Charanjit Juneja,Manprit Charanjit,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MC%20Juneja.png
+41286,ER Dwivedi,Right hand Bat, ,Wicketkeeper,Eklavya Rakesh Dwivedi,Eklavya Rakesh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/ER%20Dwivedi.png
+35459,K Upadhyay,Right hand Bat,Right arm Medium, ,Krishnakant Upadhyay,Krishnakant Upadhyay,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/K%20Upadhyay.png
+37347,MG Neser,Right hand Bat,Right arm Medium fast, ,Michael Gertges Neser,Michael Gertges,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MG%20Neser.png
+40895,UT Khawaja,Left hand Bat,Right arm Medium, ,Usman Tariq Khawaja,Usman Tariq,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/UT%20Khawaja.png
+40385,KJ Abbott,Right hand Bat,Right arm Fast medium, ,Kyle John Abbott,Kyle John,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KJ%20Abbott.png
+38924,DJ Muthuswami,Right hand Bat,Right arm Medium, ,Domnic Joseph Muthuswami,Domnic Joseph,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DJ%20Muthuswami.png
+6360,Anmolpreet Singh,Right hand Bat,Right arm Offbreak, ,Anmolpreet Singh,Anmolpreet Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Anmolpreet%20Singh.png
+3011,JP Behrendorff,Right hand Bat,Left arm Fast medium, ,Jason Paul Behrendorff,Jason Paul,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JP%20Behrendorff.png
+27,AT Rayudu,Right hand Bat,Right arm Offbreak,Occasional Wicketkeeper,Ambati Thirupathi Rayudu,Ambati Thirupathi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AT%20Rayudu.png
+1437,AD Russell,Right hand Bat,Right arm Fast, ,Andre Dwayne Russell,Andre Dwayne,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Andre%20Russell.png
+34601,V Pratap Singh,Right hand Bat,Right arm Medium, ,Veer Pratap Singh,Veer Pratap,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/V%20Pratap%20Singh.png
+1856,LE Plunkett,Right hand Bat,Right arm Fast, ,Liam Edward Plunkett,Liam Edward,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/LE%20Plunkett.png
+13563,RE van der Merwe,Right hand Bat,Slow Left arm Orthodox, ,Roelof Erasmus van der Merwe,Roelof Erasmus,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RE%20van%20der%20Merwe.png
+58,RV Uthappa,Right hand Bat,Right arm Medium,Occasional Wicketkeeper,Robin Venu Uthappa,Robin Venu,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Robin%20Uthappa.png
+8945,PD Salt,Right hand Bat,Right arm Offbreak,Wicketkeeper,Philip Dean Salt,Philip Dean,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PD%20Salt.png
+293,V Shankar,Right hand Bat,Right arm Medium, ,Vijay Shankar,Vijay Shankar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/V%20Shankar.png
+37595,NJ Maddinson,Left hand Bat,Slow Left arm Orthodox, ,Nicolas James Maddinson,Nicolas James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/NJ%20Maddinson.png
+11934,CL White,Right hand Bat,Legbreak Googly, ,Cameron Leon White,Cameron Leon,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CL%20White.png
+11969,M Rawat,Right hand Bat, ,Wicketkeeper,Mahesh Rawat,Mahesh Rawat,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Rawat.png
+9181,Gurnoor Brar,Left hand Bat,Right arm Fast, ,Gurnoor Brar,Gurnoor Brar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Gurnoor%20Brar.png
+46,BB McCullum,Right hand Bat,"Right arm Medium, Right arm Offbreak",Wicketkeeper,Brendon Barrie McCullum,Brendon Barrie,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BB%20McCullum.png
+13863,M Morkel,Left hand Bat,Right arm Fast, ,Morne Morkel,Morne Morkel,https://scores.iplt20.com/ipl/images/default-player-statsImage.png
+7902,KS Sharma,Right hand Bat,Right arm Offbreak, ,Karan Sunny Sharma,Karan Sunny,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KS%20Sharma.png
+16648,P Parameswaran,Right hand Bat,Left arm Medium, ,Prasanth Parameswaran,Prasanth Parameswaran,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/P%20Parameswaran.png
+33961,P Prasanth,Left hand Bat,Slow Left arm Orthodox, ,Padmanabhan Prasanth,Padmanabhan Prasanth,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/P%20Prasanth.png
+5473,Lalit Yadav,Right hand Bat,Right arm Offbreak, ,Lalit Yadav,Lalit Yadav,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Lalit%20Yadav.png
+16,DJ Hooda,Right hand Bat,Right arm Offbreak, ,Deepak Jagbir Hooda,Deepak Jagbir,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DJ%20Hooda.png
+1990,IS Sodhi,Right hand Bat,Legbreak, ,Inderbir Singh Sodhi,Inderbir Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/IS%20Sodhi.png
+494,BB Sran,Left hand Bat,Left arm Medium, ,Barinder Balbirsingh Sran,Barinder Balbirsingh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BB%20Sran.png
+34382,DJ Harris,Right hand Bat,Right arm Medium, ,Daniel Joseph Harris,Daniel Joseph,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DJ%20Harris.png
+3518,Y Prithvi Raj,Left hand Bat,Left arm Medium, ,Prithvi Raj Yarra,Prithvi Raj,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Y%20Prithvi%20Raj.png
+1964,JP Duminy,Left hand Bat,Right arm Offbreak, ,Jean-Paul Duminy,Jean-Paul,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JP%20Duminy.png
+15866,NJ Rimmington,Right hand Bat,Right arm Fast medium, ,Nathan John Rimmington,Nathan John,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/NJ%20Rimmington.png
+21,A Nehra,Right hand Bat,Left arm Medium fast, ,Ashish Nehra,Ashish Nehra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Nehra.png
+3495,Harpreet Brar,Left hand Bat,Slow Left arm Orthodox, ,Harpreet Brar,Harpreet Brar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Harpreet%20Brar.png
+6033,GD Phillips,Right hand Bat,Right arm Offbreak,Wicketkeeper,Glenn Dominic Phillips,Glenn Dominic,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/GD%20Phillips.png
+181,RR Pant,Left hand Bat, ,Wicketkeeper,Rishabh Rajendra Pant,Rishabh Rajendra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Rishabh%20Pant.png
+15829,AUK Pathan,Right hand Bat,Right arm Medium, ,Asad Ullah Khan Pathan,Asad Ullah,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AUK%20Pathan.png
+5562,Jalaj S Saxena,Right hand Bat,"Right arm Offbreak, Legbreak Googly", ,Jalaj Sahai Saxena,Jalaj Sahai,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Jalaj%20S%20Saxena.png
+3230,R Parag,Right hand Bat,Legbreak, ,Riyan Parag,Riyan Parag,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Parag.png
+183,CR Brathwaite,Right hand Bat,Right arm Fast medium, ,Carlos Ricardo Brathwaite,Carlos Ricardo,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CR%20Brathwaite.png
+4406,AT Carey,Left hand Bat, ,Wicketkeeper,Alex Tyson Carey,Alex Tyson,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AT%20Carey.png
+11967,DS Lehmann,Left hand Bat,Slow Left arm Orthodox, ,Darren Scott Lehmann,Darren Scott,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DS%20Lehmann.png
+7134,SS Prabhudessai,Right hand Bat,Right arm Medium, ,Suyash S Prabhudessai,Suyash S,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SS%20Prabhudessai.png
+10939,N Thushara,Right hand Bat,Right arm Medium fast,,Nuwan Thushara,Nuwan Thushara,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/N%20Thushara.png
+11068,LB Williams,Left hand Bat,Right arm Medium fast,,Lizaad Buyron Williams,Lizaad Buyron,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/LB%20Williams.png
+10163,Naman Dhir,Right hand Bat,Right arm Offbreak,,Naman Dhir,Naman Dhir,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Naman%20Dhir.png
+11376,Gulbadin Naib,Right hand Bat,Right arm Medium fast,,Gulbadin Naib,Gulbadin Naib,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Gulbadin%20Naib.png
+11781,Aniket Verma,Right hand Bat,Right arm Medium fast,,Aniket Verma,Aniket Verma,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Aniket%20Verma.png
+10690,Tanush Kotian,Right hand Bat,Right arm Offbreak,,Tanush Kotian,Tanush Kotian,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Tanush%20Kotian.png
+11847,Priyansh Arya,Left hand Bat,Right arm Offbreak,,Priyansh Arya,Priyansh Arya,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Priyansh%20Arya.png
+11854,Suryansh Shedge,Right hand Bat,Right arm Medium fast,,Suryansh Shedge,Suryansh Shedge,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Suryansh%20Shedge.png
+10078,SD Hope,Right hand Bat,,Wicketkeeper,Shai Diego Hope,Shai Diego,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SD%20Hope.png
+10160,L Wood,Left hand Bat,Left arm Fast medium,,Luke Wood,Luke Wood,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/L%20Wood.png
+10168,G Coetzee,Right hand Bat,Right arm Fast,,Gerald Coetzee,Gerald Coetzee,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/G%20Coetzee.png
+10604,KA Maharaj,Right hand Bat,Slow Left arm Orthodox,,Keshav Athmanand Maharaj,Keshav Athmanand,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KA%20Maharaj.png
+10630,WG Jacks,Right hand Bat,Right arm Offbreak,,William George Jacks,William George,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/WG%20Jacks.png
+10667,J Fraser-McGurk,Right hand Bat,Legbreak Googly,,Jake Fraser-McGurk,Jake Fraser,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/J%20Fraser-McGurk.png
+11805,R Minz,Left hand Bat,,Slow Left arm Orthodox,Robin Minz,Robin Minz,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Minz.png
+10382,SB Dubey,Left hand Bat,Right arm Offbreak,,Shubham Badriprasad Dubey,Shubham Badriprasad,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SB%20Dubey.png
+10710,S Joseph,Left hand Bat,Right arm Fast,,Shamar Joseph,Shamar Joseph,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Joseph.png
+11389,D Ferreira,Right hand Bat,Right arm Offbreak,Wicketkeeper,Donovan Ferreira,Donovan Ferreira,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/D%20Ferreira.png
+11416,V Viyaskanth,Right hand Bat,Legbreak,,Vijayakanth Viyaskanth,Vijayakanth Viyaskanth,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/V%20Viyaskanth.png
+11799,V Puthur,Right hand Bat,Left arm Wrist spin,,Vignesh Puthur,Vignesh Puthur,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/V%20Puthur.png
+11801,RD Rickelton,Left hand Bat,,Wicketkeeper,Ryan Rickelton,Ryan Rickelton,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RD%20Rickelton.png
+11843,V Nigam,Right hand Bat,Legbreak,,Vipraj Nigam,Vipraj Nigam,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/V%20Nigam.png
+8805,Arjun Tendulkar,Left hand Bat,Left arm Medium fast, ,Arjun Sachin Tendulkar,Arjun Sachin,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Arjun%20Tendulkar.png
+360,SN Thakur,Right hand Bat,Right arm Medium, ,Shardul Narendra Thakur,Shardul Narendra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SN%20Thakur.png
+36966,P Suyal,Right hand Bat,Left arm Medium, ,Pawan Shakland Suyal,Pawan Shakland,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/P%20Suyal.png
+15108,MB Parmar,Right hand Bat,Right arm Offbreak, ,Mohnish Bipinbhai Parmar,Mohnish Bipinbhai,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MB%20Parmar.png
+6694,R Powell,Right hand Bat,Right arm Medium fast, ,Rovman Powell,Rovman Powell,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Powell.png
+35364,AP Majumdar,Right hand Bat,Legbreak Googly, ,Anustup Prabir Majumdar,Anustup Prabir,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AP%20Majumdar.png
+33919,Anand Rajan,Right hand Bat,Right arm Medium, ,Anand Rajan,Anand Rajan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Anand%20Rajan.png
+2824,GC Viljoen,Right hand Bat,Right arm Fast, ,GC Viljoen,GC Viljoen,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/GC%20Viljoen.png
+8773,Atharva Taide,Left hand Bat,Slow Left arm Orthodox, ,Atharva Taide,Atharva Taide,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Atharva%20Taide.png
+12065,Shoaib Malik,Right hand Bat,Right arm Offbreak, ,Shoaib Malik,Shoaib Malik,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shoaib%20Malik.png
+12070,Mohammad Asif,Left hand Bat,Right arm Fast medium, ,Mohammad Asif,Mohammad Asif,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mohammad%20Asif.png
+23,PA Patel,Left hand Bat,Right arm Offbreak,Wicketkeeper,Parthiv Ajay Patel,Parthiv Ajay,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PA%20Patel.png
+8809,Noor Ahmad,Right hand Bat,Left arm Wrist spin, ,Noor Ahmad Lakanwal,Noor Ahmad,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Noor%20Ahmad.png
+6310,TL Seifert,Right hand Bat, ,Wicketkeeper,Tim Louis Seifert,Tim Louis,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/TL%20Seifert.png
+38229,Shivam Sharma,Right hand Bat,Right arm Offbreak, ,Shivam Sharma,Shivam Sharma,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shivam%20Sharma.png
+5349,RM Patidar,Right hand Bat,Right arm Offbreak, ,Rajat Manohar Patidar,Rajat Manohar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RM%20Patidar.png
+12669,LA Pomersbach,Left hand Bat,Right arm Offbreak, ,Luke Anthony Pomersbach,Luke Anthony,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/LA%20Pomersbach.png
+39089,RG More,Right hand Bat,Right arm Medium, ,Ronit Gajanan More,Ronit Gajanan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RG%20More.png
+7652,Simarjeet Singh,Right hand Bat,Right arm Medium fast, ,Simarjeet Singh,Simarjeet Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Simarjeet%20Singh.png
+2227,MM Ali,Left hand Bat,Right arm Offbreak, ,Moeen Munir Ali,Moeen Munir,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MM%20Ali.png
+12364,DB Ravi Teja,Right hand Bat,Legbreak Googly, ,Dwaraka Bhamidipati Ravi Teja,Dwaraka Bhamidipati,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DB%20Ravi%20Teja.png
+491,Mohammad Nabi,Right hand Bat,Right arm Offbreak, ,Mohammad Nabi,Mohammad Nabi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mohammad%20Nabi.png
+569,JP Faulkner,Right hand Bat,Left arm Fast medium, ,James Peter Faulkner,James Peter,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JP%20Faulkner.png
+241,VR Aaron,Right hand Bat,Right arm Fast, ,Varun Raymond Aaron,Varun Raymond,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/VR%20Aaron.png
+15368,B Sumanth,Right hand Bat,Right arm Medium fast, ,Bodapati Apparao Sumanth,Bodapati Apparao,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/B%20Sumanth.png
+8005,PH Solanki,Right hand Bat,Legbreak, ,Prashant Hitesh Solanki,Prashant Hitesh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PH%20Solanki.png
+5686,KW Richardson,Right hand Bat,Right arm Fast medium, ,Kane William Richardson,Kane William,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KW%20Richardson.png
+35,MA Agarwal,Right hand Bat,Right arm Offbreak, ,Mayank Anurag Agarwal,Mayank Anurag,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MA%20Agarwal.png
+9,TS Mills,Right hand Bat,Left arm Fast, ,Tymal Solomon Mills,Tymal Solomon,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/TS%20Mills.png
+9508,JE Root,Right hand Bat,"Right arm Offbreak, Legbreak", ,Joseph Edward Root,Joseph Edward,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JE%20Root.png
+2662,KK Ahmed,Right hand Bat,Left arm Medium, ,Khaleel Khursheed Ahmed,Khaleel Khursheed,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KK%20Ahmed.png
+15846,DJ Jacobs,Right hand Bat,Right arm Medium,Wicketkeeper,David Johan Jacobs,David Johan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DJ%20Jacobs.png
+61,SA Yadav,Right hand Bat,"Right arm Medium, Right arm Offbreak", ,Suryakumar Ashok Yadav,Suryakumar Ashok,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SA%20Yadav.png
+2700,SO Hetmyer,Left hand Bat, , ,Shimron Odilon Hetmyer,Shimron Odilon,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SO%20Hetmyer.png
+36069,BMAJ Mendis,Left hand Bat,Legbreak, ,Balapuwaduge Manukulasuriya Amith Jeevan Mendis,Balapuwaduge Manukulasuriya,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BMAJ%20Mendis.png
+41723,PWA Mulder,Right hand Bat,Right arm Medium,,Wiaan Mulder,Wiaan Mulder,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PWA%20Mulder.png
+41726,Zeeshan Ansari,Right hand Bat,Legbreak Googly,,Zeeshan Ansari,Zeeshan Ansari,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Zeeshan%20Ansari.png
+41758,J Overton,Right hand Bat,Right arm Fast,,Jamie Overton,Jamie Overton,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/J%20Overton.png
+41785,Ashwani Kumar,Left hand Bat,Left arm Medium,,Ashwani Kumar,Ashwani Kumar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ashwani%20Kumar.png
+41851,PHKD Mendis,Left hand Bat,"Right arm Offbreak, Slow Left arm Orthodox",,Kamindu Mendis,Kamindu Mendis,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PHKD%20Mendis.png
+42116,Himmat Singh,Right hand Bat,Right arm Offbreak,,Himmat Singh,Himmat Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Himmat%20Singh.png
+42133,E Malinga,Left hand Bat,Right arm Fast medium,,Kiribathgala Kankanamalage Eshan Malinga Dharmasena,Kiribathgala Kankanamalage,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/E%20Malinga.png
+42206,SK Rasheed,Right hand Bat,Legbreak,,Shaik Rasheed,Shaik Rasheed,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SK%20Rasheed.png
+42220,JP Inglis,Right hand Bat,,Wicketkeeper,Joshua Patrick Inglis,Joshua Patrick,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JP%20Inglis.png
+42226,XC Bartlett,Right hand Bat,Right arm Fast medium,,Xavier Colin Bartlett,Xavier Colin,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/XC%20Bartlett.png
+43253,C Bosch,Right hand Bat,Right arm Fast medium,,Corbin Bosch,Corbin Bosch,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/C%20Bosch.png
+43282,JG Bethell,Left hand Bat,Slow Left arm Orthodox,,Jacob Graham Bethell,Jacob Graham,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JG%20Bethell.png
+43300,Karim Janat,Right hand Bat,Right arm Medium,,Karim Janat,Karim Janat,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Karim%20Janat.png
+43451,KS Rathore,Left hand Bat,,Wicketkeeper,Kunal Singh Rathore,Kunal Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KS%20Rathore.png
+43548,Urvil Patel,Right hand Bat,,Wicketkeeper,Urvil Mukesh Patel,Urvil Mukesh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Urvil%20Patel.png
+43574,M Tiwari,Right hand Bat,Right arm Medium fast,,Madhav Tiwari,Madhav Tiwari,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Tiwari.png
+43582,MJ Owen,Right hand Bat,,Right arm Medium,Mitchell J Owen,Mitchell J,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MJ%20Owen.png
+43638,W O'Rourke,Right hand Bat,Right arm Fast,Right arm Fast,William Peter O'Rourke,William Peter,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/W%20O'Rourke.png
+43649,Harsh Dubey,Left hand Bat,Slow Left arm Orthodox,,Harsh Surendra Dubey,Harsh Surendra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Harsh%20Dubey.png
+43820,MP Breetzke,Right hand Bat,,Wicketkeeper,Matthew Paul Breetzke,Matthew Paul,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MP%20Breetzke.png
+43849,Musheer Khan,Right hand Bat,Slow Left arm Orthodox,,Musheer Khan,Musheer Khan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Musheer%20Khan.png
+43881,BKG Mendis,Right hand Bat,Legbreak,,Kusal Mendis,Kusal Mendis,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BKG%20Mendis.png
+43954,Sediqullah Atal,Left hand Bat,,,Sediqullah Atal,Sediqullah Atal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Sediqullah%20Atal.png
+3388,Arshdeep Singh,Left hand Bat,Left arm Medium fast, ,Arshdeep Singh,Arshdeep Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Arshdeep%20Singh.png
+34356,DAJ Bracewell,Right hand Bat,Right arm Fast medium, ,Douglas Andrew John Bracewell,Douglas Andrew,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DAJ%20Bracewell.png
+1970,AD Hales,Right hand Bat,Right arm Medium,Occasional Wicketkeeper,Alexander Daniel Hales,Alexander Daniel,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AD%20Hales.png
+161,DT Christian,Right hand Bat,Right arm Fast medium, ,Daniel Trevor Christian,Daniel Trevor,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DT%20Christian.png
+12414,YV Takawale,Right hand Bat, ,Wicketkeeper,Yogesh Vijay Takawale,Yogesh Vijay,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/YV%20Takawale.png
+62,CR Woakes,Right hand Bat,Right arm Fast medium, ,Christopher Roger Woakes,Christopher Roger,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CR%20Woakes.png
+77,T Natarajan,Left hand Bat,Left arm Medium, ,Thangarasu Natarajan,Thangarasu Natarajan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/T%20Natarajan.png
+5354,KA Jamieson,Right hand Bat,Right arm Fast medium, ,Kyle Alex Jamieson,Kyle Alex,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KA%20Jamieson.png
+13231,KP Pietersen,Right hand Bat,Right arm Offbreak, ,Kevin Peter Pietersen,Kevin Peter,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KP%20Pietersen.png
+11948,Joginder Sharma,Right hand Bat,Right arm Fast medium, ,Joginder Sharma,Joginder Sharma,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Joginder%20Sharma.png
+13220,T Henderson,Right hand Bat,Right arm Fast medium, ,Tyron Henderson,Tyron Henderson,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/T%20Henderson.png
+15837,UBT Chand,Right hand Bat,Right arm Offbreak, ,Unmukt Bharat Thakur Chand,Unmukt Bharat,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/UBT%20Chand.png
+12008,Y Venugopal Rao,Right hand Bat,Right arm Offbreak, ,Yalaka Venugopal Rao,Yalaka Venugopal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Y%20Venugopal%20Rao.png
+471,NM Coulter-Nile,Right hand Bat,Right arm Fast, ,Nathan Mitchell Coulter-Nile,Nathan Mitchell,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/NM%20Coulter-Nile.png
+34706,T Mishra,Right hand Bat,Right arm Fast medium, ,Tanmay Mishra,Tanmay Mishra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/T%20Mishra.png
+14481,AG Murtaza,Left hand Bat,Slow Left arm Orthodox, ,Ali Ghulam Murtaza,Ali Ghulam,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AG%20Murtaza.png
+3718,S Sandeep Warrier,Right hand Bat,Right arm Medium, ,Sankarankutty Sandeep Warrier,Sankarankutty Sandeep,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Sandeep%20Warrier.png
+8626,WD Parnell,Left hand Bat,Left arm Medium fast, ,Wayne Dillon Parnell,Wayne Dillon,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/WD%20Parnell.png
+546,Gurkeerat Singh,Right hand Bat,Right arm Offbreak, ,Gurkeerat Rupinder Singh,Gurkeerat Rupinder,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Gurkeerat%20Singh.png
+14961,KB Arun Karthik,Right hand Bat,Legbreak Googly,Occasional Wicketkeeper,Konda Bhaskir Arun Karthik,Konda Bhaskir,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KB%20Arun%20Karthik.png
+12046,Pankaj Singh,Right hand Bat,Right arm Medium fast, ,Pankaj Singh,Pankaj Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Pankaj%20Singh.png
+245,AB de Villiers,Right hand Bat,Right arm Medium,Wicketkeeper,Abraham Benjamin de Villiers,Abraham Benjamin,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AB%20de%20Villiers.png
+4771,CJ Green,Right hand Bat,Right arm Offbreak, ,Christopher James Green,Christopher James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CJ%20Green.png
+48,AJ Finch,Right hand Bat,Slow Left arm Orthodox, ,Aaron James Finch,Aaron James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AJ%20Finch.png
+9069,D Wiese,Right hand Bat,Right arm Medium fast, ,David Wiese,David Wiese,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/D%20Wiese.png
+4023,JL Pattinson,Left hand Bat,Right arm Fast medium, ,James Lee Pattinson,James Lee,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JL%20Pattinson.png
+11935,MV Boucher,Right hand Bat,Right arm Medium,Wicketkeeper,Mark Verdon Boucher,Mark Verdon,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MV%20Boucher.png
+34171,RW Price,Right hand Bat,Slow Left arm Orthodox, ,Raymond William Price,Raymond William,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RW%20Price.png
+13026,A Mukund,Left hand Bat,Legbreak Googly, ,Abhinav Mukund,Abhinav Mukund,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Mukund.png
+6717,OF Smith,Right hand Bat,Right arm Fast medium, ,Odean Fabian Smith,Odean Fabian,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/OF%20Smith.png
+767,Anureet Singh,Right hand Bat,Right arm Medium, ,Kathuria Anureet Singh,Kathuria Anureet,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Anureet%20Singh.png
+35146,BB Samantray,Right hand Bat,Right arm Medium, ,Biplab Bipin Samantray,Biplab Bipin,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BB%20Samantray.png
+39661,GS Sandhu,Left hand Bat,Right arm Fast medium, ,Gurinder Singh Sandhu,Gurinder Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/GS%20Sandhu.png
+1452,B Laughlin,Right hand Bat,Right arm Fast medium, ,Ben Laughlin,Ben Laughlin,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/B%20Laughlin.png
+14520,RS Gavaskar,Left hand Bat,Slow Left arm Orthodox, ,Rohan Sunil Gavaskar,Rohan Sunil,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RS%20Gavaskar.png
+2703,Navdeep Saini,Right hand Bat,Right arm Fast,,Navdeep Saini,Navdeep Saini,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Navdeep%20Saini.png
+10152,Azmatullah Omarzai,Right hand Bat,Right arm Medium fast,,Azmatullah Omarzai,Azmatullah Omarzai,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Azmatullah%20Omarzai.png
+10528,Kumar Kushagra,Right hand Bat,,Wicketkeeper,Kumar Kushagra,Kumar Kushagra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Kumar%20Kushagra.png
+11640,Shivam Singh,Right hand Bat,Right arm Offbreak,,Shivam Singh,Shivam Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shivam%20Singh.png
+10456,Ashutosh Sharma,Right hand Bat,,,Ashutosh Sharma,Ashutosh Sharma,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ashutosh%20Sharma.png
+10302,MP Yadav,Right hand Bat,Right arm Fast,,Mayank Yadav,Mayank Yadav,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MP%20Yadav.png
+10303,M Siddharth,Right hand Bat,Slow Left arm Orthodox,,Manimaran Siddharth,Manimaran Siddharth,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Siddharth.png
+10548,BR Sharath,Right hand Bat,,Wicketkeeper,Belur Ravi Sharath,Belur Ravi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BR%20Sharath.png
+11562,T Kohler-Cadmore,Right hand Bat,Right arm Offbreak,Wicketkeeper,Tom Kohler-Cadmore,Tom Kohler,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/T%20Kohler-Cadmore.png
+11810,PVSN Raju,Left hand Bat,Right arm Medium fast,,Penumatsa Venkata Satyanarayana Raju,Penumatsa Venkata,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PVSN%20Raju.png
+11833,DS Rathi,Right hand Bat,Legbreak,,Digvesh Singh Rathi,Digvesh Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DS%20Rathi.png
+42511,MS Bhandage,Left hand Bat,Right arm Medium fast,,Manoj Shivaramsa Bhandage,Manoj Shivaramsa,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MS%20Bhandage.png
+42566,V Suryavanshi,Left hand Bat,Slow Left arm Orthodox,,Vaibhav Suryavanshi,Vaibhav Suryavanshi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/V%20Suryavanshi.png
+42603,A Mhatre,Right hand Bat,Right arm Offbreak,,Ayush Mhatre,Ayush Mhatre,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Mhatre.png
+38,MS Dhoni,Right hand Bat,Right arm Medium,Wicketkeeper,Mahendra Singh Dhoni,Mahendra Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MS%20Dhoni.png
+38515,K Santokie,Left hand Bat,Left arm Medium, ,Krishmar Santokie,Krishmar Santokie,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/K%20Santokie.png
+15049,C Ganapathy,Right hand Bat,Right arm Medium, ,Chandrasekar Ganapathy,Chandrasekar Ganapathy,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/C%20Ganapathy.png
+6715,RA Bawa,Left hand Bat,Right arm Medium fast, ,RajÂ AngadÂ Bawa,RajÂ AngadÂ,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RA%20Bawa.png
+318,UT Yadav,Right hand Bat,Right arm Fast, ,Umeshkumar Tilak Yadav,Umeshkumar Tilak,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/UT%20Yadav.png
+16414,KMDN Kulasekara,Right hand Bat,Right arm Fast medium, ,Kulasekara Mudiyanselage Dinesh Nuwan Kulasekara,Kulasekara Mudiyanselage,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KMDN%20Kulasekara.png
+37,BA Stokes,Left hand Bat,Right arm Fast medium, ,Benjamin Andrew Stokes,Benjamin Andrew,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BA%20Stokes.png
+1986,MK Lomror,Left hand Bat,Slow Left arm Orthodox, ,Mahipal Krishan Lomror,Mahipal Krishan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MK%20Lomror.png
+6212,T Shamsi,Right hand Bat,Left arm Wrist spin, ,Tabraiz Shamsi,Tabraiz Shamsi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/T%20Shamsi.png
+3505,SE Rutherford,Left hand Bat,Right arm Fast medium, ,Sherfane Eviston Rutherford,Sherfane Eviston,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SE%20Rutherford.png
+34817,Azhar Mahmood,Right hand Bat,Right arm Fast medium, ,Azhar Mahmood Sagar,Azhar Mahmood,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Azhar%20Mahmood.png
+4146,TU Deshpande,Left hand Bat,Right arm Medium, ,Tushar Uday Deshpande,Tushar Uday,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/TU%20Deshpande.png
+11987,DJ Thornely,Right hand Bat,"Right arm Medium, Right arm Offbreak", ,Dominic John Thornely,Dominic John,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DJ%20Thornely.png
+11928,M Kartik,Left hand Bat,Slow Left arm Orthodox, ,Murali Kartik,Murali Kartik,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Kartik.png
+297,Mustafizur Rahman,Left hand Bat,Left arm Fast medium, ,Mustafizur Rahman,Mustafizur Rahman,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mustafizur%20Rahman.png
+8400,RJW Topley,Right hand Bat,Left arm Fast medium, ,Reece James William Topley,Reece James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RJW%20Topley.png
+13458,KP Appanna,Right hand Bat,Slow Left arm Orthodox, ,Kotarangada Prabhu Appanna,Kotarangada Prabhu,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KP%20Appanna.png
+6245,NT Ellis,Right hand Bat,Right arm Fast medium, ,Nathan Ellis,Nathan Ellis,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/NT%20Ellis.png
+1416,R Ashwin,Right hand Bat,Right arm Offbreak, ,Ravichandran Ashwin,Ravichandran Ashwin,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Ashwin.png
+7947,T Stubbs,Right hand Bat,Right arm Offbreak,Wicketkeeper,Tristan Stubbs,Tristan Stubbs,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/T%20Stubbs.png
+1443,DJM Short,Left hand Bat,Left arm Wrist spin, ,D'Arcy John Matthew Short,D'Arcy John,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DJM%20Short.png
+811,IK Pathan,Left hand Bat,Left arm Medium fast, ,Irfan Khan Pathan,Irfan Khan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/IK%20Pathan.png
+634,AD Nath,Right hand Bat,Right arm Medium fast, ,Akshdeep Deependra Nath,Akshdeep Deependra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AD%20Nath.png
+14485,AA Jhunjhunwala,Right hand Bat,Right arm Offbreak, ,Abhishek Arunkumar Jhunjhunwala,Abhishek Arunkumar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AA%20Jhunjhunwala.png
+180,SV Samson,Right hand Bat, ,Wicketkeeper,Sanju Viswanath Samson,Sanju Viswanath,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SV%20Samson.png
+12221,TM Srivastava,Left hand Bat,Right arm Medium, ,Tanmay Manoj Srivastava,Tanmay Manoj,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/TM%20Srivastava.png
+6036,Akash Singh,Right hand Bat,Left arm Medium fast, ,Akash Maharaj Singh,Akash Maharaj,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Akash%20Singh.png
+35030,R Shukla,Right hand Bat,Right arm Medium, ,Rahul Shukla,Rahul Shukla,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Shukla.png
+12160,A Kumble,Right hand Bat,Legbreak Googly, ,Anil Kumble,Anil Kumble,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Kumble.png
+12035,S Sohal,Right hand Bat,Legbreak, ,Sunny Sohal,Sunny Sohal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Sohal.png
+16007,JJ van der Wath,Right hand Bat,Right arm Medium fast, ,Johannes Jacobus van der Wath,Johannes Jacobus,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JJ%20van%20der%20Wath.png
+13882,GJ Bailey,Right hand Bat,Right arm Medium, ,George John Bailey,George John,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/GJ%20Bailey.png
+2719,JM Bairstow,Right hand Bat,Right arm Medium,Wicketkeeper,Jonathan Marc Bairstow,Jonathan Marc,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JM%20Bairstow.png
+66,TA Boult,Right hand Bat,Left arm Fast medium, ,Trent Alexander Boult,Trent Alexander,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/TA%20Boult.png
+258,CJ Anderson,Left hand Bat,Left arm Medium fast, ,Corey James Anderson,Corey James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CJ%20Anderson.png
+7036,Ramandeep Singh,Right hand Bat,Right arm Medium, ,Ramandeep Singh,Ramandeep Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ramandeep%20Singh.png
+24,JC Buttler,Right hand Bat, ,Wicketkeeper,Joseph Charles Buttler,Joseph Charles,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Jos%20Buttler.png
+35239,BW Hilfenhaus,Right hand Bat,Right arm Fast medium, ,Benjamin William Hilfenhaus,Benjamin William,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BW%20Hilfenhaus.png
+5955,DJ Malan,Left hand Bat,Legbreak, ,Dawid Johannes Malan,Dawid Johannes,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DJ%20Malan.png
+12107,GC Smith,Left hand Bat,Right arm Offbreak, ,Graeme Craig Smith,Graeme Craig,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/GC%20Smith.png
+438,JD Unadkat,Right hand Bat,Left arm Medium, ,Jaydev Dipakbhai Unadkat,Jaydev Dipakbhai,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JD%20Unadkat.png
+2947,MJ Santner,Left hand Bat,Slow Left arm Orthodox, ,Mitchell Josef Santner,Mitchell Josef,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MJ%20Santner.png
+348,RA Jadeja,Left hand Bat,Slow Left arm Orthodox, ,Ravindrasinh Anirudhsinh Jadeja,Ravindrasinh Anirudhsinh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RA%20Jadeja.png
+16529,M Klinger,Right hand Bat, , ,Michael Klinger,Michael Klinger,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Klinger.png
+12193,DNT Zoysa,Left hand Bat,Left arm Fast medium, ,Demuni Nuwan Tharanga Zoysa,Demuni Nuwan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DNT%20Zoysa.png
+35322,PA Reddy,Right hand Bat,Legbreak, ,Produturi Akshath Reddy,Produturi Akshath,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PA%20Reddy.png
+13271,FH Edwards,Right hand Bat,Right arm Fast, ,Fidel Henderson Edwards,Fidel Henderson,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/FH%20Edwards.png
+14353,Mohammad Ashraful,Right hand Bat,"Right arm Offbreak, Legbreak", ,Mohammad Ashraful,Mohammad Ashraful,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mohammad%20Ashraful.png
+12315,Salman Butt,Left hand Bat,Right arm Offbreak, ,Salman Butt,Salman Butt,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Salman%20Butt.png
+9044,Abdul Basith,Right hand Bat,Right arm Offbreak, ,Pappanayil Abdul Basith,Pappanayil Abdul,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Abdul%20Basith.png
+4274,JDS Neesham,Left hand Bat,Right arm Medium fast, ,James Douglas Sheahan Neesham,James Douglas,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JDS%20Neesham.png
+11942,ML Hayden,Left hand Bat,Right arm Medium, ,Matthew Lawrence Hayden,Matthew Lawrence,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/319700/319706.png"
+637,SS Agarwal,Right hand Bat,Legbreak Googly, ,Shubham Sanjay Agarwal,Shubham Sanjay,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SS%20Agarwal.png
+33,JJ Bumrah,Right hand Bat,Right arm Fast, ,Jasprit Jasbirsingh Bumrah,Jasprit Jasbirsingh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JJ%20Bumrah.png
+34931,A Chandila,Right hand Bat,Right arm Offbreak, ,Ajit  Chandila,Ajit  Chandila,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Chandila.png
+697,DM Bravo,Left hand Bat,Right arm Medium,Occasional Wicketkeeper,Darren Michael Bravo,Darren Michael,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DM%20Bravo.png
+7077,HE van der Dussen,Right hand Bat,Legbreak, ,Hendrik Erasmus van der Dussen,Hendrik Erasmus,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/HE%20van%20der%20Dussen.png
+2934,P Ray Barman,Right hand Bat,Legbreak Googly, ,Prayas Ray Barman,Prayas Ray,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/P%20Ray%20Barman.png
+2760,Rasikh Salam,Right hand Bat,Right arm Medium, ,Rasikh Salam Dar,Rasikh Salam,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Rasikh%20Salam.png
+14729,AC Voges,Right hand Bat,Slow Left arm Orthodox, ,Adam Charles Voges,Adam Charles,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AC%20Voges.png
+1436,RK Singh,Left hand Bat,Right arm Offbreak, ,Rinku Khanchand Singh,Rinku Khanchand,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RK%20Singh.png
+1421,Q de Kock,Left hand Bat, ,Wicketkeeper,Quinton de Kock,Quinton de,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Q%20de%20Kock.png
+12523,L Balaji,Right hand Bat,Right arm Medium fast, ,Lakshmipathy Balaji,Lakshmipathy Balaji,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/L%20Balaji.png
+6999,B Sai Sudharsan,Left hand Bat,Legbreak, ,Bhardwaj Sai Sudharsan,Bhardwaj Sai,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Sai%20Sudharsan.png
+5980,PWH de Silva,Right hand Bat,Legbreak, ,Pinnaduwage Wanindu Hasaranga de Silva,Pinnaduwage Wanindu,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PWH%20de%20Silva.png
+11990,AM Nayar,Left hand Bat,Right arm Medium, ,Abhishek Mohan Nayar,Abhishek Mohan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AM%20Nayar.png
+14505,MS Bisla,Right hand Bat, ,Wicketkeeper,Manvinder Sultansingh Bisla,Manvinder Sultansingh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MS%20Bisla.png
+12009,VVS Laxman,Right hand Bat,Right arm Offbreak, ,Vangipurappu Venkata Sai Laxman,Vangipurappu Venkata,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/VVS%20Laxman.png
+6795,D Pretorius,Right hand Bat,Right arm Medium fast, ,Dwaine Pretorius,Dwaine Pretorius,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/D%20Pretorius.png
+38322,VH Zol,Left hand Bat,Right arm Offbreak, ,Vijay Hari Zol,Vijay Hari,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/VH%20Zol.png
+12093,VS Yeligati,Right hand Bat,Right arm Offbreak, ,Vikrant Shyam Yeligati,Vikrant Shyam,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/VS%20Yeligati.png
+5408,JA Richardson,Right hand Bat,Right arm Fast, ,Jhye Avon Richardson,Jhye Avon,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JA%20Richardson.png
+4071,D Padikkal,Left hand Bat,Right arm Offbreak, ,Devdutt Padikkal,Devdutt Padikkal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/D%20Padikkal.png
+15507,AG Paunikar,Right hand Bat, ,Wicketkeeper,Amit Gajanan Paunikar,Amit Gajanan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AG%20Paunikar.png
+11985,L Ronchi,Right hand Bat, ,Wicketkeeper,Luke Ronchi,Luke Ronchi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/L%20Ronchi.png
+34,AM Rahane,Right hand Bat,Right arm Medium, ,Ajinkya Madhukar Rahane,Ajinkya Madhukar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Ajinkya%20Rahane.png
+13402,RR Bose,Right hand Bat,Right arm Fast medium, ,Ranadeb Ranjit Bose,Ranadeb Ranjit,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RR%20Bose.png
+36213,R Rampaul,Left hand Bat,Right arm Fast medium, ,Ravindranath Rampaul,Ravindranath Rampaul,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Rampaul.png
+12535,A Chopra,Right hand Bat,"Right arm Medium, Right arm Offbreak", ,Aakash Chopra,Aakash Chopra,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Chopra.png
+11930,R Dravid,Right hand Bat,Right arm Offbreak,Occasional Wicketkeeper,Rahul Sharad Dravid,Rahul Sharad,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Dravid.png
+13973,C Nanda,Right hand Bat,Legbreak, ,Chetanya Nanda,Chetanya Nanda,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/C%20Nanda.png
+4099,Abdul Samad,Right hand Bat,Legbreak, ,Abdul Samad Farooq,Abdul Samad,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Abdul%20Samad.png
+3284,LS Livingstone,Right hand Bat,"Right arm Offbreak, Legbreak", ,Liam Stephen Livingstone,Liam Stephen,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/LS%20Livingstone.png
+7365,HR Shokeen,Right hand Bat,Right arm Offbreak, ,Hrithik Rakesh Shokeen,Hrithik Rakesh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/HR%20Shokeen.png
+7172,Yash Dayal,Right hand Bat,Left arm Medium fast, ,Yash Dayal,Yash Dayal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Yash%20Dayal.png
+38691,Karanveer Singh,Right hand Bat,Legbreak Googly, ,Karanveer Singh,Karanveer Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Karanveer%20Singh.png
+15472,C Madan,Right hand Bat, ,Wicketkeeper,Chandan Madan,Chandan Madan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/C%20Madan.png
+10,YS Chahal,Right hand Bat,Legbreak Googly, ,Yuzvendra Singh Chahal,Yuzvendra Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Yuzvendra%20Chahal.png
+16382,JE Taylor,Right hand Bat,Right arm Fast, ,Jerome Everton Taylor,Jerome Everton,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JE%20Taylor.png
+11931,W Jaffer,Right hand Bat,Right arm Offbreak, ,Wasim Jaffer,Wasim Jaffer,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/W%20Jaffer.png
+14,MC Henriques,Right hand Bat,Right arm Fast medium, ,Moises Constantino Henriques,Moises Constantino,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MC%20Henriques.png
+11936,B Akhil,Right hand Bat,Right arm Medium fast, ,Balachandra Akhil,Balachandra Akhil,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/B%20Akhil.png
+1120,MJ Henry,Right hand Bat,Right arm Fast medium, ,Matthew James Henry,Matthew James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MJ%20Henry.png
+64,Kuldeep Yadav,Left hand Bat,Left arm Wrist spin, ,Kuldeep Yadav,Kuldeep Yadav,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Kuldeep%20Yadav.png
+11975,V Sehwag,Right hand Bat,Right arm Offbreak, ,Virender Sehwag,Virender Sehwag,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/V%20Sehwag.png
+12017,PP Ojha,Left hand Bat,Slow Left arm Orthodox, ,Pragyan Prayash Ojha,Pragyan Prayash,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/322600/322694.1.png"
+8356,NA Saini,Right hand Bat,Right arm Fast, ,Navdeep Amarjeet Saini,Navdeep Amarjeet,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/NA%20Saini.png
+12345,M Ntini,Right hand Bat,Right arm Fast, ,Makhaya Ntini,Makhaya Ntini,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Ntini.png
+18,NV Ojha,Right hand Bat, ,Wicketkeeper,Naman Vinaykumar Ojha,Naman Vinaykumar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/NV%20Ojha.png
+34272,RE Levi,Right hand Bat,Right arm Medium, ,Richard Ernst Levi,Richard Ernst,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RE%20Levi.png
+14478,R McLaren,Left hand Bat,Right arm Medium fast, ,Ryan McLaren,Ryan McLaren,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20McLaren.png
+15745,ND Doshi,Right hand Bat,Slow Left arm Orthodox, ,Nayan Dilip Doshi,Nayan Dilip,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/ND%20Doshi.png
+26,N Rana,Left hand Bat,"Right arm Medium, Right arm Offbreak, Legbreak", ,Nitish Rana,Nitish Rana,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/N%20Rana.png
+12795,RV Pawar,Left hand Bat,Slow Left arm Orthodox, ,Rajesh Vithal Pawar,Rajesh Vithal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RV%20Pawar.png
+8425,Yash Thakur,Right hand Bat,Right arm Fast medium, ,Yash Ravisingh Thakur,Yash Ravisingh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Yash%20Thakur.png
+13698,SM Harwood,Right hand Bat,Right arm Fast medium, ,Shane Michael Harwood,Shane Michael,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SM%20Harwood.png
+1,CH Gayle,Left hand Bat,Right arm Offbreak, ,Christopher Henry Gayle,Christopher Henry,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Chris%20Gayle.png
+11962,S Sreesanth,Right hand Bat,Right arm Fast medium, ,Shanthakumaran Sreesanth,Shanthakumaran Sreesanth,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Sreesanth.png
+15807,AL Menaria,Left hand Bat,Slow Left arm Orthodox, ,Ashok Lakshminarayan Menaria,Ashok Lakshminarayan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AL%20Menaria.png
+2023,KM Asif,Right hand Bat,Right arm Medium, ,KM Asif,KM Asif,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KM%20Asif.png
+2766,N Pooran,Left hand Bat,Right arm Offbreak,Wicketkeeper,Nicholas Pooran,Nicholas Pooran,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Nicholas%20Pooran.png
+8953,Mayank Dagar,Right hand Bat,Slow Left arm Orthodox, ,Mayank J Dagar,Mayank J,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mayank%20Dagar.png
+9748,MD Shanaka,Right hand Bat,Right arm Medium, ,Madagamagamage Dasun Shanaka,Madagamagamage Dasun,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MD%20Shanaka.png
+267,F du Plessis,Right hand Bat,Legbreak, ,Francois du Plessis,Francois du,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Faf%20Du%20Plessis.png
+13320,Yashpal Singh,Right hand Bat,Right arm Medium, ,Yashpal Singh,Yashpal Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Yashpal%20Singh.png
+13228,JD Ryder,Left hand Bat,Right arm Medium, ,Jesse Daniel Ryder,Jesse Daniel,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JD%20Ryder.png
+2768,SM Curran,Left hand Bat,Left arm Medium fast, ,Samuel Matthew Curran,Samuel Matthew,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SM%20Curran.png
+1630,M Vijay,Right hand Bat,Right arm Offbreak, ,Murali Vijay,Murali Vijay,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Vijay.png
+36227,SMSM Senanayake,Right hand Bat,Right arm Offbreak, ,Senanayake Mudiyanselage Sachithra Madhushanka Senanayake,Senanayake Mudiyanselage,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SMSM%20Senanayake.png
+1398,C Munro,Left hand Bat,Right arm Medium fast, ,Colin Munro,Colin Munro,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/C%20Munro.png
+12314,Gagandeep Singh,Right hand Bat,Right arm Medium fast, ,Gagandeep Singh,Gagandeep Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Gagandeep%20Singh.png
+34058,S Rana,Right hand Bat,Right arm Medium fast, ,Sachin Rana,Sachin Rana,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Rana.png
+8,S Aravind,Left hand Bat,Left arm Medium fast, ,Sreenath Aravind,Sreenath Aravind,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Aravind.png
+341,S Badree,Right hand Bat,Legbreak, ,Samuel Badree,Samuel Badree,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Badree.png
+14278,AB McDonald,Right hand Bat,Right arm Fast medium, ,Andrew Barry McDonald,Andrew Barry,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AB%20McDonald.png
+184,PJ Cummins,Right hand Bat,Right arm Fast, ,Patrick James Cummins,Patrick James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PJ%20Cummins.png
+4078,I Udana,Right hand Bat,Left arm Medium fast, ,Isuru Udana Tillakaratna,Isuru Udana,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/I%20Udana.png
+1998,M Ashwin,Right hand Bat,Legbreak Googly, ,Murugan Ashwin,Murugan Ashwin,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Ashwin.png
+13203,T Thushara,Left hand Bat,Left arm Fast medium, ,Magina Thilan Thushara Mirando,Magina Thilan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/T%20Thushara.png
+14649,DR Martyn,Right hand Bat,Right arm Medium, ,Damien Richard Martyn,Damien Richard,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DR%20Martyn.png
+11998,LRPL Taylor,Right hand Bat,Right arm Offbreak, ,Luteru Ross Poutoa Lote Taylor,Luteru Ross,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/LRPL%20Taylor.png
+12765,PM Sarvesh Kumar,Right hand Bat,Right arm Medium, ,PM Sarvesh Kumar,PM Sarvesh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PM%20Sarvesh%20Kumar.png
+8312,Sikandar Raza,Right hand Bat,Right arm Offbreak, ,Sikandar Raza Butt,Sikandar Raza,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Sikandar%20Raza.png
+12842,Abdur Razzak,Left hand Bat,Slow Left arm Orthodox, ,Abdur Razzak,Abdur Razzak,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Abdur%20Razzak.png
+7005,DG Nalkande,Right hand Bat,Right arm Fast medium, ,Darshan Girish Nalkande,Darshan Girish,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DG%20Nalkande.png
+16296,J Syed Mohammad,Left hand Bat,Slow Left arm Orthodox, ,Jamaluddin Syed Mohammad,Jamaluddin Syed,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/J%20Syed%20Mohammad.png
+2745,KMA Paul,Right hand Bat,Right arm Fast medium, ,Keemo Mandela Angus Paul,Keemo Mandela,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KMA%20Paul.png
+14873,NLTC Perera,Left hand Bat,Right arm Medium fast, ,Narangoda Liyanaarachchilage Thisara Chirantha Perera,Narangoda Liyanaarachchilage,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/NLTC%20Perera.png
+6727,A Badoni,Right hand Bat,Right arm Offbreak, ,Ayush Badoni,Ayush Badoni,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Badoni.png
+1471,TK Curran,Right hand Bat,Right arm Fast medium, ,Thomas Kevin Curran,Thomas Kevin,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/TK%20Curran.png
+14454,Anirudh Singh,Left hand Bat,Right arm Medium, ,Anirudh Singh,Anirudh Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Anirudh%20Singh.png
+3793,J Suchith,Left hand Bat,Slow Left arm Orthodox, ,Jagadeesha Suchith,Jagadeesha Suchith,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/J%20Suchith.png
+1581,Shivam Mavi,Right hand Bat,Right arm Fast medium, ,Shivam Pankaj Mavi,Shivam Pankaj,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shivam%20Mavi.png
+57,CA Lynn,Right hand Bat,Slow Left arm Orthodox, ,Christopher Austin Lynn,Christopher Austin,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CA%20Lynn.png
+5986,VR Iyer,Left hand Bat,Right arm Medium, ,Venkatesh Rajasekaran Iyer,Venkatesh Rajasekaran,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/VR%20Iyer.png
+12369,DP Vijaykumar,Right hand Bat,Right arm Medium, ,David Paidikalva Vijaykumar,David Paidikalva,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DP%20Vijaykumar.png
+178,SW Billings,Right hand Bat, ,Wicketkeeper,Samuel William Billings,Samuel William,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SW%20Billings.png
+33963,Y Gnaneswara Rao,Right hand Bat,Right arm Medium, ,Yalaka Gnaneswara Rao,Yalaka Gnaneswara,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Y%20Gnaneswara%20Rao.png
+3641,O Thomas,Left hand Bat,Right arm Fast, ,Oshane Romaine Thomas,Oshane Romaine,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/O%20Thomas.png
+7476,R Dhawan,Right hand Bat,Right arm Medium fast, ,Rishi Dhawan,Rishi Dhawan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Dhawan.png
+15867,BA Bhatt,Left hand Bat,Slow Left arm Orthodox, ,Bhargav Ashok Bhatt,Bhargav Ashok,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BA%20Bhatt.png
+6550,TH David,Right hand Bat,Right arm Offbreak, ,Timothy Hays David,Timothy Hays,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/TH%20David.png
+12269,CRD Fernando,Right hand Bat,Right arm Fast medium, ,Congenige Randhi Dilhara Fernando,Congenige Randhi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CRD%20Fernando.png
+16009,R Ninan,Right hand Bat,Right arm Offbreak, ,Ryan Ninan,Ryan Ninan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Ninan.png
+11,A Choudhary,Right hand Bat,Left arm Medium, ,Aniket Vinod Choudhary,Aniket Vinod,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Choudhary.png
+3100,AS Joseph,Right hand Bat,Right arm Fast, ,Alzarri Shaheim Joseph,Alzarri Shaheim,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AS%20Joseph.png
+6944,D Brevis,Right hand Bat,Legbreak, ,Dewald Brevis,Dewald Brevis,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/D%20Brevis.png
+14303,CK Langeveldt,Right hand Bat,Right arm Fast medium, ,Charl Kenneth Langeveldt,Charl Kenneth,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CK%20Langeveldt.png
+14707,AB Barath,Right hand Bat,Right arm Offbreak, ,Adrian Boris Barath,Adrian Boris,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AB%20Barath.png
+2138,DR Shorey,Right hand Bat,Right arm Offbreak, ,Dhruv Ranjan Shorey,Dhruv Ranjan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DR%20Shorey.png
+753,SP Jackson,Right hand Bat, ,Wicketkeeper,Sheldon Philip Jackson,Sheldon Philip,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SP%20Jackson.png
+2,Mandeep Singh,Right hand Bat,Right arm Medium, ,Mandeep Singh,Mandeep Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mandeep%20Singh.png
+11956,SM Katich,Left hand Bat,Left arm Wrist spin, ,Simon Mathew Katich,Simon Mathew,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SM%20Katich.png
+538,Mohammed Siraj,Right hand Bat,Right arm Fast, ,Mohammed Siraj,Mohammed Siraj,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mohammed%20Siraj.png
+12234,JA Morkel,Left hand Bat,Right arm Medium fast, ,Johannes Albertus Morkel,Johannes Albertus,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JA%20Morkel.png
+50,DR Smith,Right hand Bat,Right arm Medium, ,Dwayne Romel Smith,Dwayne Romel,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DR%20Smith.png
+13,S Dhawan,Left hand Bat,Right arm Offbreak, ,Shikhar Dhawan,Shikhar Dhawan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shikhar%20Dhawan.png
+71,GJ Maxwell,Right hand Bat,Right arm Offbreak, ,Glenn James Maxwell,Glenn James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Glenn%20Maxwell.png
+36973,UA Birla,Right hand Bat,Right arm Medium, ,Udit Alok Birla,Udit Alok,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/UA%20Birla.png
+316,C de Grandhomme,Right hand Bat,Right arm Medium fast, ,Colin de Grandhomme,Colin de,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/C%20de%20Grandhomme.png
+8646,YV Dhull,Right hand Bat,Right arm Offbreak, ,Yash Vijay Dhull,Yash Vijay,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/YV%20Dhull.png
+34522,GB Hogg,Left hand Bat,Left arm Wrist spin, ,George Bradley Hogg,George Bradley,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/GB%20Hogg.png
+8776,Harpreet Singh,Left hand Bat,Right arm Medium, ,Harpreet Singh Bhatia,Harpreet Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Harpreet%20Singh.png
+12546,J Arunkumar,Right hand Bat,Right arm Offbreak, ,Jagadeesh Arunkumar,Jagadeesh Arunkumar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/J%20Arunkumar.png
+14712,SJ Srivastava,Right hand Bat,Left arm Fast medium, ,Shalabh Jagdishprasad Srivastava,Shalabh Jagdishprasad,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SJ%20Srivastava.png
+8082,R Sanjay Yadav,Left hand Bat,Slow Left arm Orthodox, ,Ramsingh  Sanjay Yadav,Ramsingh  Sanjay,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/R%20Sanjay%20Yadav.png
+15150,SB Wagh,Left hand Bat,Left arm Medium fast, ,Shrikant Bhaskar Wagh,Shrikant Bhaskar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SB%20Wagh.png
+179,KK Nair,Right hand Bat,Right arm Offbreak, ,Karun Nair,Karun Nair,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KK%20Nair.png
+228,Harbhajan Singh,Right hand Bat,Right arm Offbreak, ,Harbhajan Singh,Harbhajan Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Harbhajan%20Singh.png
+1035,LMP Simmons,Right hand Bat,Right arm Medium fast,Occasional Wicketkeeper,Lendl Mark Platter Simmons,Lendl Mark,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/LMP%20Simmons.png
+13502,Shoaib Ahmed,Right hand Bat,Right arm Fast medium, ,Syed Mohammad Shoaib Ahmed,Syed Mohammad,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shoaib%20Ahmed.png
+13763,D du Preez,Right hand Bat,Right arm Fast medium, ,Dillon du Preez,Dillon du,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/D%20du%20Preez.png
+3393,AJ Turner,Right hand Bat,Right arm Offbreak, ,Ashton James Turner,Ashton James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AJ%20Turner.png
+15818,RV Gomez,Right hand Bat,Right arm Medium, ,Raiphi Vincent Gomez,Raiphi Vincent,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RV%20Gomez.png
+389,SS Iyer,Right hand Bat,"Right arm Offbreak, Legbreak Googly", ,Shreyas Santosh Iyer,Shreyas Santosh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SS%20Iyer.png
+12007,AC Gilchrist,Left hand Bat,Right arm Offbreak,Wicketkeeper,Adam Craig Gilchrist,Adam Craig,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/319600/319684.png"
+1377,E Lewis,Left hand Bat, , ,Evin Lewis,Evin Lewis,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/E%20Lewis.png
+4058,SS Cottrell,Right hand Bat,Left arm Fast medium, ,Sheldon Shane Cottrell,Sheldon Shane,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SS%20Cottrell.png
+37119,Parvez Rasool,Right hand Bat,Right arm Offbreak, ,Parvez Ghulam Rasool Zargar,Parvez Ghulam,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Parvez%20Rasool.png
+1419,Mujeeb Ur Rahman,Right hand Bat,Right arm Offbreak, ,Mujeeb Ur Rahman,Mujeeb Ur,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mujeeb%20Ur%20Rahman.png
+12010,A Symonds,Right hand Bat,"Right arm Medium, Right arm Offbreak", ,Andrew Symonds,Andrew Symonds,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Symonds.png
+13267,Harmeet Singh,Right hand Bat,Right arm Medium, ,Harmeet Singh Bansal,Harmeet Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Harmeet%20Singh.png
+3246,JL Denly,Right hand Bat,Legbreak, ,Joseph Liam Denly,Joseph Liam,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JL%20Denly.png
+13250,RS Bopara,Right hand Bat,Right arm Medium, ,Ravinder Singh Bopara,Ravinder Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RS%20Bopara.png
+613,Washington Sundar,Left hand Bat,Right arm Offbreak, ,Washington Sundar,Washington Sundar,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Washington%20Sundar.png
+7024,Shashank Singh,Right hand Bat,"Right arm Medium, Right arm Offbreak", ,Shashank Singh,Shashank Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shashank%20Singh.png
+4047,A Nortje,Right hand Bat,Right arm Fast, ,Anrich Arno Nortje,Anrich Arno,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Nortje.png
+1559,A Dananjaya,Left hand Bat,"Right arm Offbreak, Legbreak", ,Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera,Mahamarakkala Kurukulasooriya,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Dananjaya.png
+495,S Kaul,Right hand Bat,Right arm Medium, ,Siddarth Kaul,Siddarth Kaul,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/S%20Kaul.png
+1580,Shubman Gill,Right hand Bat,Right arm Offbreak, ,Shubman Gill,Shubman Gill,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Shubman%20Gill.png
+34089,KH Devdhar,Right hand Bat, ,Wicketkeeper,Kedar Hemant Devdhar,Kedar Hemant,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KH%20Devdhar.png
+1409,KL Rahul,Right hand Bat, ,Wicketkeeper,Kannaur Lokesh Rahul,Kannaur Lokesh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KL%20Rahul.png
+34304,M de Lange,Right hand Bat,Right arm Fast, ,Marchant de Lange,Marchant de,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20de%20Lange.png
+11961,WA Mota,Right hand Bat,Right arm Medium, ,Wilkin Arvind Mota,Wilkin Arvind,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/WA%20Mota.png
+51,MS Gony,Right hand Bat,Right arm Medium, ,Manpreet Singh Gony,Manpreet Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MS%20Gony.png
+36609,X Thalaivan Sargunam,Right hand Bat,Right arm Offbreak, ,Xavier Thalaivan Sargunam,Xavier Thalaivan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/X%20Thalaivan%20Sargunam.png
+13198,A Flintoff,Right hand Bat,Right arm Fast medium, ,Andrew Flintoff,Andrew Flintoff,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/A%20Flintoff.png
+3076,SC Kuggeleijn,Right hand Bat,Right arm Fast medium, ,Scott Christopher Kuggeleijn,Scott Christopher,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SC%20Kuggeleijn.png
+219,AS Rajpoot,Right hand Bat,Right arm Medium, ,Ankit Singh Rajpoot,Ankit Singh,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AS%20Rajpoot.png
+230,SL Malinga,Right hand Bat,Right arm Fast, ,Separamadu Lasith Malinga,Separamadu Lasith,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Lasith%20Malinga.png
+1386,M Markande,Right hand Bat,Legbreak, ,Mayank Markande,Mayank Markande,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Markande.png
+75,MM Sharma,Right hand Bat,Right arm Medium, ,Mohit Mahipal Sharma,Mohit Mahipal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Mohit%20Sharma.png
+12014,SB Bangar,Right hand Bat,Right arm Medium fast, ,Sanjay Bapusaheb Bangar,Sanjay Bapusaheb,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SB%20Bangar.png
+12147,Sohail Tanvir,Left hand Bat,Left arm Medium fast, ,Sohail Tanvir,Sohail Tanvir,"https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160/lsci/db/PICTURES/CMS/320400/320472.1.png"
+37979,BR Dunk,Left hand Bat,Right arm Offbreak,Wicketkeeper,Ben Robert Dunk,Ben Robert,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/BR%20Dunk.png
+308,I Sharma,Right hand Bat,Right arm Fast medium, ,Ishant Sharma,Ishant Sharma,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/I%20Sharma.png
+9371,Akash Madhwal,Right hand Bat,Right arm Medium fast, ,Akash Madhwal,Akash Madhwal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/Akash%20Madhwal.png
+40813,SM Boland,Right hand Bat,Right arm Fast medium, ,Scott Michael Boland,Scott Michael,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SM%20Boland.png
+9931,H Sharma,Right hand Bat,Legbreak, ,Himanshu Sharma,Himanshu Sharma,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/H%20Sharma.png
+13497,AA Bilakhia,Right hand Bat,Right arm Medium, ,Azharuddin Anjum Bilakhia,Azharuddin Anjum,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AA%20Bilakhia.png
+35153,MJ Clarke,Right hand Bat,Slow Left arm Orthodox, ,Michael John Clarke,Michael John,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MJ%20Clarke.png
+8372,HC Brook,Right hand Bat,Right arm Medium, ,Harry Cherrington Brook,Harry Cherrington,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/HC%20Brook.png
+11919,SC Ganguly,Left hand Bat,Right arm Medium, ,Sourav Chandidas Ganguly,Sourav Chandidas,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SC%20Ganguly.png
+4,KM Jadhav,Right hand Bat,Right arm Offbreak, ,Kedar Mahadav Jadhav,Kedar Mahadav,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KM%20Jadhav.png
+29,KA Pollard,Right hand Bat,Right arm Medium, ,Kieron Adrian Pollard,Kieron Adrian,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KA%20Pollard.png
+6713,PBB Rajapaksa,Left hand Bat,Right arm Medium, ,Pramod Bhanuka Bandara Rajapaksa,Pramod Bhanuka,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/PBB%20Rajapaksa.png
+14622,SE Bond,Right hand Bat,Right arm Fast, ,Shane Edward Bond,Shane Edward,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/SE%20Bond.png
+2329,JPR Scantlebury-Searles,Right hand Bat,Right arm Fast medium, ,Javon Philip Ramon Scantlebury-Searles,Javon Philip,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JPR%20Scantlebury-Searles.png
+172,P Negi,Left hand Bat,Slow Left arm Orthodox, ,Pawan Negi,Pawan Negi,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/P%20Negi.png
+12032,DPMD Jayawardene,Right hand Bat,Right arm Medium, ,Denagamage Proboth Mahela de Silva Jayawardene,Denagamage Proboth,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DPMD%20Jayawardene.png
+604,MG Johnson,Left hand Bat,Left arm Fast, ,Mitchell Guy Johnson,Mitchell Guy,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/MG%20Johnson.png
+12738,RR Powar,Right hand Bat,Right arm Offbreak, ,Ramesh Rajaram Powar,Ramesh Rajaram,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/RR%20Powar.png
+14726,FY Fazal,Left hand Bat,Right arm Medium, ,Faiz Yakub Fazal,Faiz Yakub,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/FY%20Fazal.png
+11951,M Muralitharan,Right hand Bat,Right arm Offbreak, ,Muthiah Muralidaran,Muthiah Muralidaran,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/M%20Muralitharan.png
+6880,JM Sharma,Right hand Bat, ,Wicketkeeper,Jitesh Mohan Sharma,Jitesh Mohan,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JM%20Sharma.png
+12465,DT Patil,Right hand Bat, ,Wicketkeeper,Devraj Thyagaraj Patil,Devraj Thyagaraj,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/DT%20Patil.png
+11953,JR Hopes,Right hand Bat,Right arm Medium, ,James Redfern Hopes,James Redfern,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/JR%20Hopes.png
+6885,VG Arora,Right hand Bat,Right arm Fast medium, ,Vaibhav Gopal Arora,Vaibhav Gopal,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/VG%20Arora.png
+9225,AJ Hosein,Left hand Bat,Slow Left arm Orthodox, ,Akeal Jerome Hosein,Akeal Jerome,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/AJ%20Hosein.png
+16862,CJ Ferguson,Right hand Bat,Right arm Medium, ,Callum James Ferguson,Callum James,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/CJ%20Ferguson.png
+14985,KAJ Roach,Right hand Bat,Right arm Fast medium, ,Kemar Andre Jamal Roach,Kemar Andre,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/KAJ%20Roach.png
+400,EJG Morgan,Left hand Bat,Right arm Medium,Occasional Wicketkeeper,Eoin Joseph Gerard Morgan,Eoin Joseph,https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/playerimages/EJG%20Morgan.png
